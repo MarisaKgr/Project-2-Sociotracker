@@ -1,0 +1,92 @@
+Netflix_Movie_Show_List as nms
+-
+Media_ID int PK
+Quarter_ID string FK - q.Quarter_ID
+Category_ID string
+Title string
+Premiere date
+
+Netflix_Movies_IMDB
+-
+Media_ID int PK FK - nms.Media_ID
+Category_ID string FK - nms.Category_ID
+IMDB_Score double
+
+Netflix_Movies_Lang
+- 
+ID int PK
+Media_ID int FK - nms.Media_ID
+Category_ID string FK >- nms.Category_ID
+Language string
+
+Netflix_Movies_Genre
+- 
+ID int PK
+Media_ID int FK - nms.Media_ID
+Category_ID string FK >- nms.Category_ID
+Genre string
+
+Netflix_Shows_Seasons
+-
+Media_ID int PK FK - nms.Media_ID
+Category_ID string FK >- nms.Category_ID
+No_of_Seasons int
+
+Netflix_Shows_Genre
+-
+Media_ID int PK FK - nms.Media_ID
+Category_ID string FK >- nms.Category_ID
+Genre string
+
+Quarters as q
+-
+Quarter_ID string PK
+Year int
+Quarter int
+
+Netflix_Stock_Prices
+-
+Date PK date
+Quarter_ID string FK - q.Quarter_ID
+Open int
+High int
+Low int
+Close int
+Adj_Close int
+Volume int
+
+Neflix_Rev_Sub_USC
+-
+Quarter_ID PK string FK - q.Quarter_ID
+Area_Name string
+Revenue int
+Rev_Quarterly_Change double
+Subscribers int
+Sub_Quarterly_Change double
+
+Neflix_Rev_Sub_EMEA
+-
+Quarter_ID PK string FK - q.Quarter_ID
+Area_Name string 
+Revenue int
+Rev_Quarterly_Change double
+Subscribers int
+Sub_Quarterly_Change double
+
+Neflix_Rev_Sub_LA
+-
+Quarter_ID PK string FK - q.Quarter_ID
+Area_Name string
+Revenue int
+Rev_Quarterly_Change double
+Subscribers int
+Sub_Quarterly_Change double
+
+Neflix_Rev_Sub_AP
+-
+Quarter_ID PK string FK - q.Quarter_ID
+Area_Name string
+Revenue int
+Rev_Quarterly_Change double
+Subscribers int
+Sub_Quarterly_Change double
