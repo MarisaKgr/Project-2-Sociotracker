@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Ignore config.py
+config.py
 
 # Ada Library Information
 *.ali
