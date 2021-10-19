@@ -1,0 +1,1223 @@
+media_id,quarter_id,category_id,title,premiere
+1,Q3 - 2019,movie,Enter the Anime,2019-08-05
+2,Q3 - 2020,movie,Dark Forces,2020-08-21
+3,Q4 - 2019,movie,The App,2019-12-26
+4,Q1 - 2018,movie,The Open House,2018-01-19
+5,Q4 - 2020,movie,Kaali Khuhi,2020-10-30
+6,Q4 - 2019,movie,Drive,2019-11-01
+7,Q4 - 2020,movie,Leyla Everlasting,2020-12-04
+8,Q2 - 2020,movie,The Last Days of American Crime,2020-06-05
+9,Q1 - 2018,movie,Paradox,2018-03-23
+10,Q2 - 2021,movie,Sardar Ka Grandson,2021-05-18
+11,Q2 - 2021,movie,Searching for Sheela,2021-04-22
+12,Q4 - 2020,movie,The Call,2020-11-27
+13,Q3 - 2020,movie,Whipped,2020-09-18
+14,Q4 - 2020,movie,All Because of You,2020-10-01
+15,Q4 - 2016,movie,Mercy,2016-11-22
+16,Q4 - 2019,movie,After the Raid,2019-12-19
+17,Q1 - 2020,movie,Ghost Stories,2020-01-01
+18,Q1 - 2020,movie,The Last Thing He Wanted,2020-02-21
+19,Q1 - 2021,movie,What Happened to Mr. Cha?,2021-01-01
+20,Q3 - 2017,movie,Death Note,2017-08-25
+21,Q3 - 2019,movie,"Hello Privilege. It's Me, Chelsea",2019-09-13
+22,Q3 - 2019,movie,Secret Obsession,2019-07-18
+23,Q3 - 2019,movie,Sextuplets,2019-08-16
+24,Q1 - 2021,movie,The Girl on the Train,2021-02-26
+25,Q2 - 2021,movie,Thunder Force,2021-04-09
+26,Q3 - 2020,movie,Fatal Affair,2020-07-16
+27,Q2 - 2021,movie,Just Say Yes,2021-04-02
+28,Q3 - 2020,movie,Seriously Single,2020-07-31
+29,Q1 - 2021,movie,The Misadventures of Hedi and Cokeman,2021-02-10
+30,Q4 - 2018,movie,5 Star Christmas,2018-12-07
+31,Q2 - 2019,movie,After Maria,2019-05-24
+32,Q4 - 2016,movie,I Am the Pretty Thing That Lives in the House,2016-10-28
+33,Q1 - 2019,movie,Paris Is Us,2019-02-22
+34,Q4 - 2019,movie,Porta dos Fundos: The First Temptation of Christ,2019-12-03
+35,Q4 - 2019,movie,Rattlesnake,2019-10-25
+36,Q3 - 2020,movie,The Players,2020-07-15
+37,Q3 - 2020,movie,We Are One,2020-07-14
+38,Q4 - 2020,movie,Finding Agnes,2020-11-30
+39,Q1 - 2019,movie,IO,2019-01-18
+40,Q1 - 2021,movie,Sentinelle,2021-03-05
+41,Q2 - 2020,movie,Sol Levante,2020-04-02
+42,Q4 - 2020,movie,The Binding,2020-10-02
+43,Q4 - 2020,movie,We Can Be Heroes,2020-12-25
+44,Q4 - 2020,movie,Christmas Crossfire,2020-12-04
+45,Q1 - 2017,movie,Coin Heist,2017-01-06
+46,Q2 - 2020,movie,Mrs. Serial Killer,2020-05-01
+47,Q4 - 2020,movie,Nobody Sleeps in the Woods Tonight,2020-10-28
+48,Q1 - 2017,movie,Take the 10,2017-01-20
+49,Q2 - 2020,movie,The Main Event,2020-04-10
+50,Q4 - 2015,movie,The Ridiculous 6,2015-12-11
+51,Q2 - 2020,movie,Earth and Blood,2020-04-17
+52,Q3 - 2020,movie,Fearless,2020-08-14
+53,Q4 - 2019,movie,Holiday Rush,2019-11-28
+54,Q4 - 2020,movie,The Day of the Lord,2020-10-30
+55,Q1 - 2020,movie,Airplane Mode,2020-01-23
+56,Q3 - 2018,movie,How It Ends,2018-07-13
+57,Q4 - 2020,movie,Love Like the Falling Rain,2020-10-15
+58,Q3 - 2016,movie,Rebirth,2016-07-15
+59,Q1 - 2021,movie,Squared Love,2021-02-11
+60,Q4 - 2020,movie,Cadaver,2020-10-22
+61,Q1 - 2017,movie,Clinical,2017-01-13
+62,Q2 - 2020,movie,Coffee & Kareem,2020-04-03
+63,Q2 - 2018,movie,Dude,2018-04-20
+64,Q1 - 2021,movie,Geez & Ann,2021-02-25
+65,Q3 - 2020,movie,The Larva Island Movie,2020-07-23
+66,Q3 - 2017,movie,#REALITYHIGH,2017-09-08
+67,Q3 - 2019,movie,American Factory: A Conversation with the Obamas ,2019-08-21
+68,Q3 - 2020,movie,Desperados,2020-07-03
+69,Q4 - 2020,movie,Dolly Parton's Christmas on the Square,2020-11-22
+70,Q3 - 2018,movie,Father of the Year,2018-07-20
+71,Q1 - 2019,movie,Firebrand,2019-02-22
+72,Q2 - 2021,movie,Ghost Lab,2021-05-26
+73,Q1 - 2017,movie,Girlfriend's Day,2017-02-14
+74,Q2 - 2017,movie,Handsome: A Netflix Mystery Movie,2017-05-05
+75,Q4 - 2020,movie,Hubie Halloween,2020-10-07
+76,Q2 - 2018,movie,Ibiza,2018-05-25
+77,Q2 - 2019,movie,Rim of the World,2019-05-24
+78,Q2 - 2017,movie,Sandy Wexler,2017-04-14
+79,Q2 - 2019,movie,See You Yesterday,2019-05-17
+80,Q2 - 2019,movie,Still Laugh-In: The Stars Celebrate,2019-05-14
+81,Q1 - 2021,movie,"Strip Down, Rise Up",2021-02-05
+82,Q3 - 2019,movie,Tall Girl,2019-09-13
+83,Q4 - 2020,movie,The Beast,2020-11-27
+84,Q2 - 2018,movie,The Week Of,2018-04-27
+85,Q4 - 2018,movie,A Christmas Prince: The Royal Wedding,2018-11-30
+86,Q3 - 2019,movie,Back to School,2019-08-30
+87,Q2 - 2020,movie,Dangerous Lies,2020-04-30
+88,Q3 - 2020,movie,Gunjan Saxena: The Kargil Girl,2020-08-12
+89,Q2 - 2020,movie,Intuition,2020-05-28
+90,Q3 - 2018,movie,The Most Assassinated Woman in the World,2018-09-07
+91,Q2 - 2021,movie,Things Heard & Seen,2021-04-29
+92,Q2 - 2018,movie,"To Each, Her Own",2018-06-24
+93,Q2 - 2019,movie,Who Would You Take to a Deserted Island?,2019-04-12
+94,Q3 - 2016,movie,XOXO,2016-08-26
+95,Q4 - 2020,movie,A Babysitter's Guide to Monster Hunting,2020-10-15
+96,Q4 - 2019,movie,A Christmas Prince: The Royal Baby,2019-12-05
+97,Q2 - 2019,movie,Despite Everything,2019-05-03
+98,Q3 - 2020,movie,Dolly Kitty and Those Twinkling Stars,2020-09-18
+99,Q3 - 2020,movie,Freaks: You're One of Us,2020-09-02
+100,Q1 - 2018,movie,"Game Over, Man!",2018-03-23
+101,Q1 - 2020,movie,Guilty,2020-03-06
+102,Q4 - 2019,movie,In the Tall Grass,2019-10-04
+103,Q2 - 2021,movie,Madame Claude,2021-04-02
+104,Q3 - 2017,movie,Naked,2017-08-11
+105,Q1 - 2021,movie,Outside the Wire,2021-01-15
+106,Q4 - 2020,movie,The Princess Switch: Switched Again,2020-11-19
+107,Q3 - 2020,movie,Under the Riccione Sun,2020-07-01
+108,Q4 - 2015,movie,A Very Murray Christmas,2015-12-04
+109,Q4 - 2018,movie,Been So Long,2018-10-26
+110,Q4 - 2019,movie,Dead Kids,2019-12-01
+111,Q2 - 2021,movie,Get the Grift,2021-04-28
+112,Q4 - 2019,movie,Ghosts of Sugar Land,2019-10-16
+113,Q4 - 2019,movie,House Arrest,2019-11-15
+114,Q1 - 2019,movie,Kevin Hart's Guide to Black History,2019-02-08
+115,Q2 - 2020,movie,Love Wedding Repeat,2020-04-10
+116,Q1 - 2018,movie,Mute,2018-02-23
+117,Q4 - 2020,movie,�l�t?r�,2020-10-02
+118,Q1 - 2021,movie,Red Dot,2021-02-11
+119,Q2 - 2021,movie,Ride or Die,2021-04-15
+120,Q1 - 2018,movie,Step Sisters,2018-01-19
+121,Q1 - 2018,movie,The Cloverfield Paradox,2018-02-04
+122,Q4 - 2019,movie,The Knight Before Christmas,2019-11-21
+123,Q3 - 2018,movie,The Legacy of a Whitetail Deer Hunter,2018-07-06
+124,Q3 - 2018,movie,The Package,2018-08-10
+125,Q2 - 2019,movie,Unicorn Store,2019-04-05
+126,Q2 - 2019,movie,Wine Country,2019-05-10
+127,Q4 - 2017,movie,Bomb Scared,2017-10-12
+128,Q3 - 2016,movie,Brahman Naman,2016-07-07
+129,Q1 - 2021,movie,Double Dad,2021-01-15
+130,Q3 - 2019,movie,Falling Inn Love,2019-08-29
+131,Q3 - 2018,movie,Hold the Dark,2018-09-28
+132,Q3 - 2020,movie,"Love, Guaranteed",2020-09-03
+133,Q2 - 2020,movie,One-Way to Tomorrow,2020-06-19
+134,Q4 - 2020,movie,Sarah Cooper: Everything's Fine,2020-10-27
+135,Q1 - 2019,movie,The Last Laugh,2019-01-11
+136,Q1 - 2021,movie,The Last Paradiso,2021-02-05
+137,Q4 - 2020,movie,The Midnight Sky,2020-12-23
+138,Q3 - 2020,movie,The Paramedic,2020-09-16
+139,Q3 - 2020,movie,The Sleepover,2020-08-21
+140,Q4 - 2020,movie,Vampires vs. the Bronx,2020-10-02
+141,Q2 - 2021,movie,Why Did You Kill Me?,2021-04-14
+142,Q1 - 2021,movie,A Week Away,2021-03-26
+143,Q1 - 2021,movie,Caught by a Wave,2021-03-25
+144,Q4 - 2017,movie,Christmas Inheritance,2017-12-15
+145,Q3 - 2020,movie,Dad Wanted,2020-09-11
+146,Q4 - 2017,movie,El Camino Christmas,2017-12-08
+147,Q4 - 2019,movie,Eli,2019-10-18
+148,Q4 - 2020,movie,Ginny Weds Sunny,2020-10-09
+149,Q2 - 2019,movie,Good Sam,2019-05-16
+150,Q1 - 2019,movie,Lionheart,2019-01-04
+151,Q3 - 2017,movie,Little Evil,2017-09-01
+152,Q2 - 2020,movie,One Take,2020-06-18
+153,Q4 - 2018,movie,"Out of Many, One",2018-12-12
+154,Q3 - 2019,movie,Point Blank,2019-07-12
+155,Q2 - 2021,movie,Prime Time,2021-04-14
+156,Q2 - 2016,movie,The Do-Over,2016-05-27
+157,Q4 - 2018,movie,The Holiday Calendar,2018-11-02
+158,Q2 - 2021,movie,The Woman in the Window,2021-05-14
+159,Q2 - 2020,movie,The Wrong Missy,2020-05-13
+160,Q1 - 2019,movie,Velvet Buzzsaw,2019-02-01
+161,Q1 - 2021,movie,Yes Day,2021-03-12
+162,Q1 - 2019,movie,15-Aug,2019-03-29
+163,Q4 - 2020,movie,A California Christmas,2020-12-14
+164,Q4 - 2017,movie,A Christmas Prince,2017-11-17
+165,Q2 - 2020,movie,All Day and a Night,2020-05-01
+166,Q4 - 2019,movie,American Son,2019-11-01
+167,Q4 - 2016,movie,Barry,2016-12-16
+168,Q2 - 2018,movie,Candy Jar,2018-04-27
+169,Q2 - 2020,movie,Choked: Paisa Bolta Hai,2020-06-05
+170,Q3 - 2020,movie,Class of '83,2020-08-21
+171,Q3 - 2018,movie,Extinction,2018-07-27
+172,Q1 - 2018,movie,Happy Anniversary,2018-03-30
+173,Q2 - 2021,movie,I Am All Girls,2021-05-14
+174,Q4 - 2019,movie,Let It Snow,2019-11-08
+175,Q4 - 2016,movie,Mascots,2016-10-13
+176,Q4 - 2020,movie,Operation Christmas Drop,2020-11-05
+177,Q4 - 2018,movie,Rajma Chawal,2018-11-30
+178,Q2 - 2020,movie,Rich in Love,2020-04-30
+179,Q2 - 2020,movie,Rising High,2020-04-17
+180,Q2 - 2017,movie,Rodney King,2017-04-28
+181,Q3 - 2018,movie,Sierra Burgess Is a Loser,2018-09-07
+182,Q2 - 2017,movie,Small Crimes,2017-04-28
+183,Q2 - 2016,movie,Special Correspondents,2016-04-29
+184,Q2 - 2018,movie,TAU,2018-06-29
+185,Q3 - 2018,movie,The After Party,2018-08-24
+186,Q3 - 2020,movie,The Babysitter: Killer Queen,2020-09-10
+187,Q4 - 2020,movie,The Claus Family,2020-12-07
+188,Q3 - 2020,movie,The Kissing Booth 2,2020-07-24
+189,Q2 - 2019,movie,The Perfect Date,2019-04-12
+190,Q4 - 2020,movie,What We Wanted,2020-11-11
+191,Q4 - 2020,movie,You've Got This,2020-10-02
+192,Q2 - 2018,movie,6 Balloons,2018-04-06
+193,Q1 - 2020,movie,A Fall from Grace,2020-01-17
+194,Q2 - 2018,movie,Amateur,2018-04-06
+195,Q2 - 2021,movie,Army of the Dead,2021-05-21
+196,Q4 - 2018,movie,Cam,2018-11-16
+197,Q4 - 2019,movie,Earthquake Bird,2019-11-15
+198,Q3 - 2019,movie,"Frankenstein's Monster's Monster, Frankenstein",2019-07-16
+199,Q1 - 2020,movie,Horse Girl,2020-02-07
+200,Q3 - 2018,movie,Notes from Dunblane: Lesson from a School Shooting,2018-09-28
+201,Q1 - 2020,movie,Maska,2020-03-27
+202,Q1 - 2020,movie,The Decline,2020-03-27
+203,Q1 - 2021,movie,The Minimalists: Less Is Now,2021-01-01
+204,Q1 - 2018,movie,The Polka King,2018-01-12
+205,Q4 - 2020,movie,The Prom,2020-12-11
+206,Q4 - 2016,movie,True Memoirs of an International Assassin,2016-11-11
+207,Q1 - 2020,movie,Ultras,2020-03-20
+208,Q2 - 2018,movie,Come Sunday,2018-04-13
+209,Q2 - 2018,movie,Forgive Us Our Debts,2018-05-04
+210,Q1 - 2017,movie,iBoy,2017-01-27
+211,Q3 - 2019,movie,Lovefucked,2019-08-09
+212,Q1 - 2019,movie,Juanita,2019-03-08
+213,Q2 - 2019,movie,Murder Mystery,2019-06-14
+214,Q3 - 2020,movie,Project Power,2020-08-14
+215,Q4 - 2020,movie,Rebecca,2020-10-21
+216,Q4 - 2020,movie,The Christmas Chronicles: Part Two,2020-11-25
+217,Q2 - 2018,movie,The Kissing Booth,2018-05-11
+218,Q4 - 2018,movie,The Princess Switch,2018-11-16
+219,Q1 - 2020,movie,To All the Boys: P.S. I Still Love You,2020-02-12
+220,Q2 - 2017,movie,War Machine,2017-05-26
+221,Q4 - 2019,movie,6 Underground,2019-12-13
+222,Q3 - 2019,movie,Between Two Ferns: The Movie,2019-09-20
+223,Q1 - 2017,movie,Burning Sands,2017-03-10
+224,Q2 - 2017,movie,Casting JonBenet,2017-04-28
+225,Q1 - 2017,movie,Deidra & Laney Rob a Train,2017-03-17
+226,Q1 - 2021,movie,Finding 'Ohana,2021-01-29
+227,Q4 - 2020,movie,Holidate,2020-10-28
+228,Q4 - 2019,movie,Holiday in the Wild,2019-11-01
+229,Q2 - 2015,movie,Hot Girls Wanted,2015-05-29
+230,Q3 - 2018,movie,Like Father,2018-08-03
+231,Q1 - 2020,movie,Lost Girls,2020-03-13
+232,Q3 - 2019,movie,Otherhood,2019-08-02
+233,Q1 - 2016,movie,Pee-wee's Big Holiday,2016-03-18
+234,Q4 - 2020,movie,Rogue City,2020-10-30
+235,Q2 - 2020,movie,Sergio,2020-04-17
+236,Q1 - 2021,movie,Stuck Apart,2021-01-08
+237,Q2 - 2021,movie,Tersanjung the Movie,2021-04-01
+238,Q4 - 2017,movie,The Killer,2017-11-10
+239,Q2 - 2020,movie,The Lovebirds,2020-05-22
+240,Q1 - 2017,movie,The Most Hated Woman in America,2017-03-24
+241,Q2 - 2019,movie,The Perfection,2019-05-24
+242,Q1 - 2021,movie,Tribhanga � Tedhi Medhi Crazy,2021-01-15
+243,Q3 - 2020,movie,Unknown Origins,2020-08-28
+244,Q3 - 2020,movie,Work It,2020-08-07
+245,Q4 - 2020,movie,Alien Xmas,2020-11-20
+246,Q2 - 2021,movie,Baggio: The Divine Ponytail,2021-05-26
+247,Q1 - 2021,movie,Below Zero,2021-01-29
+248,Q4 - 2020,movie,Citation,2020-11-06
+249,Q3 - 2020,movie,Crazy Awesome Teachers,2020-08-17
+250,Q2 - 2021,movie,Have You Ever Seen Fireflies?,2021-04-09
+251,Q1 - 2019,movie,High Flying Bird,2019-02-08
+252,Q3 - 2019,movie,In the Shadow of the Moon,2019-09-27
+253,Q2 - 2020,movie,Lost Bullet,2020-06-19
+254,Q3 - 2020,movie,Octonauts & the Caves of Sac Actun,2020-08-14
+255,Q3 - 2020,movie,Offering to the Storm,2020-07-24
+256,Q1 - 2018,movie,Roxanne Roxanne,2018-03-23
+257,Q2 - 2019,movie,Someone Great,2019-04-19
+258,Q1 - 2020,movie,Spenser Confidential,2020-03-06
+259,Q3 - 2018,movie,The Land of Steady Habits,2018-09-14
+260,Q2 - 2018,movie,The Rachel Divide,2018-04-27
+261,Q4 - 2017,movie,Voyuer ,2017-12-01
+262,Q2 - 2017,movie,Win It All,2017-04-07
+263,Q4 - 2017,movie,1922,2017-10-20
+264,Q2 - 2019,movie,A Tale of Two Kitchens,2019-05-22
+265,Q2 - 2018,movie,Alex Strangelove,2018-06-08
+266,Q4 - 2018,movie,Apostle,2018-10-12
+267,Q1 - 2018,movie,Benji,2018-03-16
+268,Q4 - 2017,movie,Bright,2017-12-22
+269,Q2 - 2018,movie,Cargo,2018-05-18
+270,Q2 - 2021,movie,Concrete Cowboy,2021-04-02
+271,Q2 - 2020,movie,Feel the Beat,2020-06-19
+272,Q1 - 2021,movie,Get the Goat,2021-03-18
+273,Q2 - 2018,movie,I Am Not an Easy Man,2018-04-13
+274,Q1 - 2021,movie,June & Kopi,2021-01-28
+275,Q2 - 2019,movie,Music Teacher,2019-04-19
+276,Q2 - 2021,movie,Nail Bomber: Manhunt,2021-05-26
+277,Q4 - 2020,movie,Notes for My Son,2020-11-24
+278,Q1 - 2019,movie,Polar,2019-01-25
+279,Q4 - 2018,movie,Porta dos Fundos: The Last Hangover,2018-12-21
+280,Q2 - 2017,movie,Sand Castle,2017-04-21
+281,Q2 - 2017,movie,Shimmer Lake,2017-06-09
+282,Q4 - 2016,movie,Spectral,2016-12-09
+283,Q4 - 2017,movie,The Babysitter,2017-10-13
+284,Q1 - 2017,movie,The Discovery,2017-03-31
+285,Q4 - 2019,movie,The Forest of Love,2019-10-11
+286,Q4 - 2019,movie,The Laundromat,2019-10-18
+287,Q1 - 2019,movie,The Legend of Cocaine Island,2019-03-29
+288,Q1 - 2018,movie,The Outsider,2018-03-09
+289,Q2 - 2020,movie,Time to Hunt,2020-04-23
+290,Q1 - 2021,movie,To All the Boys: Always and Forever,2021-02-12
+291,Q3 - 2019,movie,Travis Scott: Look Mom I Can Fly,2019-08-28
+292,Q1 - 2020,movie,Uncorked,2020-03-27
+293,Q3 - 2020,movie,Anelka: Misunderstood,2020-08-05
+294,Q4 - 2020,movie,"Ariana Grande: Excuse Me, I Love You",2020-12-21
+295,Q3 - 2016,movie,ARQ,2016-09-16
+296,Q3 - 2019,movie,Birders,2019-09-25
+297,Q4 - 2019,movie,Como Ca�do del Cielo,2019-12-24
+298,Q1 - 2018,movie,First Match,2018-03-30
+299,Q4 - 2019,movie,Fractured,2019-10-11
+300,Q1 - 2018,movie,Irreplaceable You,2018-02-16
+301,Q1 - 2020,movie,Isi & Ossi,2020-02-14
+302,Q3 - 2020,movie,John Was Trying to Contact Aliens,2020-08-20
+303,Q1 - 2021,movie,Layla Majnun,2021-02-11
+304,Q2 - 2020,movie,Murder to Mercy: The Cyntoia Brown Story,2020-04-29
+305,Q4 - 2014,movie,My Own Man,2014-12-13
+306,Q3 - 2018,movie,Nappily Ever After,2018-09-21
+307,Q4 - 2020,movie,Over the Moon,2020-10-23
+308,Q4 - 2019,movie,Street Flow,2019-10-12
+309,Q3 - 2017,movie,Strong Island,2017-09-15
+310,Q3 - 2019,movie,Sturgill Simpson Presents: Sound & Fury,2019-09-27
+311,Q1 - 2018,movie,Take Your Pills,2018-03-16
+312,Q1 - 2021,movie,The Heartbreak Club,2021-01-14
+313,Q2 - 2017,movie,The Mars Generation,2017-05-05
+314,Q1 - 2020,movie,The Occupant,2020-03-25
+315,Q2 - 2020,movie,The Willoughbys,2020-04-22
+316,Q1 - 2019,movie,Triple Frontier,2019-03-13
+317,Q3 - 2018,movie,Two Catalonias,2018-09-28
+318,Q1 - 2019,movie,Walk. Ride. Rodeo.,2019-03-08
+319,Q4 - 2017,movie,Wheelman,2017-10-20
+320,Q1 - 2018,movie,When We First Met,2018-02-09
+321,Q4 - 2019,movie,A 3 Minute Hug,2019-10-28
+322,Q1 - 2020,movie,All the Bright Places,2020-02-28
+323,Q3 - 2020,movie,All Together Now,2020-08-28
+324,Q1 - 2020,movie,Altered Carbon: Resleeved,2020-03-19
+325,Q1 - 2019,movie,Antoine Griezmann: The Making of a Legend,2019-03-21
+326,Q4 - 2020,movie,Canvas ,2020-12-11
+327,Q2 - 2021,movie,Chadwick Boseman: Portrait of an Artist,2021-04-17
+328,Q2 - 2019,movie,Chopsticks,2019-05-31
+329,Q2 - 2020,movie,Da 5 Bloods,2020-06-12
+330,Q2 - 2021,movie,Dolly Parton: A MusiCares Tribute,2021-04-07
+331,Q2 - 2020,movie,Eurovision Song Contest: The Story of Fire Saga,2020-06-26
+332,Q3 - 2017,movie,Gerald's Game,2017-09-29
+333,Q4 - 2020,movie,His House,2020-10-30
+334,Q4 - 2020,movie,Jingle Jangle: A Christmas Journey,2020-11-13
+335,Q2 - 2019,movie,Life Overtakes Me,2019-06-14
+336,Q2 - 2018,movie,Lust Stories,2018-06-15
+337,Q2 - 2021,movie,Monster,2021-05-07
+338,Q4 - 2018,movie,Mowgli: Legend of the Jungle,2018-12-07
+339,Q2 - 2020,movie,Nobody Knows I'm Here,2020-06-24
+340,Q2 - 2017,movie,Nobody Speak: Trials of the Free Press,2017-06-23
+341,Q2 - 2021,movie,Oxygen,2021-05-12
+342,Q2 - 2018,movie,Set It Up,2018-06-15
+343,Q3 - 2017,movie,The Incredible Jessica James,2017-07-28
+344,Q2 - 2020,movie,Tigertail,2020-04-10
+345,Q2 - 2017,movie,Tramps,2017-04-21
+346,Q1 - 2020,movie,What Did Jack Do?,2020-01-20
+347,Q1 - 2021,movie,Bad Trip,2021-03-26
+348,Q4 - 2018,movie,Bird Box,2018-12-21
+349,Q2 - 2020,movie,Bulbbul,2020-06-24
+350,Q1 - 2021,movie,Crazy About Her,2021-02-26
+351,Q2 - 2019,movie,Elisa & Marcela,2019-06-07
+352,Q3 - 2016,movie,I'll Sleep When I'm Dead,2016-08-19
+353,Q3 - 2020,movie,I'm Thinking of Ending Things,2020-09-04
+354,Q4 - 2019,movie,It Takes a Lunatic,2019-10-25
+355,Q2 - 2021,movie,Milestone,2021-05-07
+356,Q2 - 2018,movie,Recovery Boys,2018-06-29
+357,Q4 - 2018,movie,ReMastered: Who Killed Jam Master Jay?,2018-12-07
+358,Q4 - 2020,movie,Shawn Mendes: In Wonder,2020-11-23
+359,Q1 - 2021,movie,Space Sweepers,2021-02-05
+360,Q4 - 2018,movie,The American Meme,2018-12-07
+361,Q3 - 2018,movie,The Angel,2018-09-14
+362,Q3 - 2020,movie,The Crimes That Bind,2020-08-20
+363,Q3 - 2019,movie,The Red Sea Diving Resort,2019-07-31
+364,Q1 - 2021,movie,What Would Sophia Loren Do?,2021-01-15
+365,Q2 - 2020,movie,A Whisker Away,2020-06-18
+366,Q2 - 2021,movie,Ajeeb Daastaans,2021-04-16
+367,Q2 - 2021,movie,Arlo the Alligator Boy,2021-04-16
+368,Q4 - 2019,movie,"Bikram: Yogi, Guru, Predator",2019-11-20
+369,Q2 - 2017,movie,Blame!,2017-05-20
+370,Q2 - 2021,movie,Blue Miracle,2021-05-27
+371,Q2 - 2017,movie,CounterPunch ,2017-06-16
+372,Q1 - 2021,movie,"Crack: Cocaine, Corruption & Conspiracy",2021-01-11
+373,Q2 - 2020,movie,Extraction,2020-04-24
+374,Q4 - 2020,movie,Giving Voice,2020-12-11
+375,Q4 - 2020,movie,Hillbilly Elegy,2020-11-24
+376,Q3 - 2020,movie,Hope Frozen: A Quest to Live Twice,2020-09-15
+377,Q1 - 2017,movie,Imperial Dreams,2017-02-03
+378,Q4 - 2020,movie,Just Another Christmas,2020-12-03
+379,Q4 - 2019,movie,Little Miss Sumo,2019-10-28
+380,Q1 - 2021,movie,Malcolm & Marie,2021-02-05
+381,Q1 - 2017,movie,"Michael Bolton's Big, Sexy, Valentine's Day Special",2017-02-07
+382,Q1 - 2021,movie,Moxie,2021-03-03
+383,Q2 - 2021,movie,Night in Paradise,2021-04-09
+384,Q1 - 2021,movie,Paper Lives,2021-03-12
+385,Q3 - 2019,movie,Parchis: The Documentary,2019-07-10
+386,Q3 - 2016,movie,Tallulah,2016-07-29
+387,Q3 - 2020,movie,The Old Guard,2020-07-10
+388,Q3 - 2016,movie,Tony Robbins: I Am Not Your Guru,2016-07-15
+389,Q4 - 2019,movie,Upstarts,2019-10-18
+390,Q4 - 2018,movie,22-Jul,2018-10-10
+391,Q4 - 2016,movie,7 a�os,2016-10-28
+392,Q1 - 2018,movie,A Futile and Stupid Gesture,2018-01-26
+393,Q1 - 2020,movie,A Life of Speed: The Juan Manuel Fangio Story,2020-03-20
+394,Q3 - 2020,movie,A Love Song for Latasha,2020-09-21
+395,Q2 - 2019,movie,All in My Family,2019-05-03
+396,Q2 - 2019,movie,Always Be My Maybe,2019-05-31
+397,Q2 - 2020,movie,Becoming,2020-05-06
+398,Q3 - 2018,movie,Long Live Brij Mohan,2018-08-03
+399,Q2 - 2018,movie,Calibre,2018-06-29
+400,Q4 - 2020,movie,Death to 2020,2020-12-27
+401,Q3 - 2020,movie,GIMS: On the Record,2020-09-17
+402,Q2 - 2020,movie,Have a Good Trip: Adventures in Psychedelics,2020-05-11
+403,Q3 - 2017,movie,Heroin(e) ,2017-09-12
+404,Q2 - 2018,movie,Mercury 13,2018-04-20
+405,Q4 - 2017,movie,Saving Capitalism,2017-11-21
+406,Q4 - 2020,movie,Serious Men,2020-10-02
+407,Q3 - 2020,movie,The Boys in the Band,2020-09-30
+408,Q3 - 2020,movie,The Boys in the Band: Something Personal,2020-09-30
+409,Q4 - 2020,movie,The Life Ahead,2020-11-13
+410,Q4 - 2018,movie,The Other Side of the Wind,2018-11-02
+411,Q1 - 2018,movie,The Trader,2018-02-09
+412,Q3 - 2017,movie,To the Bone,2017-07-14
+413,Q1 - 2021,movie,Tony Parker: The Final Shot,2021-01-06
+414,Q4 - 2020,movie,AK vs AK,2020-12-24
+415,Q3 - 2016,movie,Amanda Knox,2016-09-30
+416,Q4 - 2020,movie,Bigflo & Oil: Hip Hop Frenzy,2020-10-08
+417,Q1 - 2021,movie,Biggie: I Got a Story to Tell,2021-03-01
+418,Q4 - 2020,movie,Cops and Robbers,2020-12-28
+419,Q1 - 2017,movie,I Don't Feel at Home in This World Anymore,2017-02-24
+420,Q2 - 2017,movie,Laerte-se,2017-05-19
+421,Q4 - 2020,movie,Mank,2020-12-04
+422,Q3 - 2017,movie,Our Souls at Night,2017-09-29
+423,Q4 - 2018,movie,Outlaw King,2018-11-09
+424,Q1 - 2021,movie,Pagglait,2021-03-26
+425,Q4 - 2018,movie,ReMastered: Who Shot the Sheriff?,2018-10-12
+426,Q1 - 2018,movie,Seeing Allred,2018-02-09
+427,Q2 - 2020,movie,Spelling the Dream,2020-06-03
+428,Q3 - 2020,movie,The Claudia Kishi Club,2020-07-10
+429,Q2 - 2020,movie,The Half of It,2020-05-01
+430,Q1 - 2019,movie,The Highwaymen,2019-03-29
+431,Q2 - 2019,movie,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,2019-05-23
+432,Q4 - 2017,movie,The Meyerowitz Stories (New and Selected),2017-10-13
+433,Q4 - 2018,movie,Feminists: What Were They Thinking?,2018-10-12
+434,Q3 - 2017,movie,Gaga: Five Foot Two,2017-09-22
+435,Q4 - 2020,movie,I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron,2020-11-03
+436,Q4 - 2017,movie,Kingdom of Us,2017-10-13
+437,Q4 - 2019,movie,"Lorena, Light-Footed Woman",2019-11-20
+438,Q3 - 2019,movie,Los Tigres del Norte at Folsom Prison,2019-09-15
+439,Q4 - 2020,movie,Ma Rainey's Black Bottom,2020-12-18
+440,Q4 - 2020,movie,Ma Rainey's Black Bottom: A Legacy Brought to Screen,2020-12-18
+441,Q1 - 2021,movie,Operation Varsity Blues: The College Admissions Scandal,2021-03-17
+442,Q1 - 2021,movie,Pele,2021-02-23
+443,Q2 - 2019,movie,ReMastered: Devil at the Crossroads,2019-04-26
+444,Q2 - 2019,movie,ReMastered: The Lion's Share,2019-05-17
+445,Q1 - 2019,movie,ReMastered: The Miami Showband Massacre,2019-03-22
+446,Q3 - 2017,movie,Resurface,2017-09-01
+447,Q3 - 2019,movie,Rocko's Modern Life: Static Cling,2019-08-09
+448,Q4 - 2020,movie,Rose Island,2020-12-09
+449,Q4 - 2018,movie,The Christmas Chronicles,2018-11-22
+450,Q1 - 2019,movie,The Dirt,2019-03-22
+451,Q4 - 2018,movie,The Night Comes for Us,2018-10-19
+452,Q1 - 2017,movie,13th: A Conversation with Oprah Winfrey & Ava DuVernay,2017-01-26
+453,Q4 - 2018,movie,Angela's Christmas,2018-11-30
+454,Q4 - 2020,movie,Angela's Christmas Wish,2020-12-01
+455,Q2 - 2019,movie,Beats,2019-06-19
+456,Q2 - 2020,movie,Circus of Books,2020-04-22
+457,Q4 - 2020,movie,Dance Dreams: Hot Chocolate Nutcracker,2020-11-27
+458,Q4 - 2018,movie,Derren Brown: Sacrifice,2018-10-19
+459,Q4 - 2019,movie,El Pepe: A Supreme Life,2019-12-27
+460,Q2 - 2018,movie,End Game,2018-05-04
+461,Q3 - 2019,movie,Evelyn,2019-09-10
+462,Q2 - 2021,movie,Ferry,2021-05-14
+463,Q2 - 2019,movie,Grass Is Greener,2019-04-20
+464,Q4 - 2020,movie,Guillermo Vilas: Settling the Score,2020-10-27
+465,Q2 - 2017,movie,Joshua: Teenager vs. Superpower,2017-05-26
+466,Q3 - 2015,movie,Keith Richards: Under the Influence,2015-09-18
+467,Q2 - 2019,movie,Knock Down the House,2019-05-01
+468,Q4 - 2018,movie,Loudon Wainwright III: Surviving Twin,2018-11-13
+469,Q1 - 2016,movie,My Beautiful Broken Brain,2016-03-18
+470,Q4 - 2017,movie,One of Us,2017-10-20
+471,Q1 - 2021,movie,Pieces of a Woman,2021-01-07
+472,Q2 - 2018,movie,"Ram Dass, Going Home",2018-04-06
+473,Q4 - 2018,movie,ReMastered: Tricky Dick & the Man in Black,2018-11-02
+474,Q4 - 2020,movie,Rooting for Roona,2020-10-15
+475,Q3 - 2020,movie,The Devil All the Time,2020-09-16
+476,Q1 - 2021,movie,The Dig,2021-01-29
+477,Q3 - 2019,movie,The Great Hack,2019-07-24
+478,Q1 - 2021,movie,The White Tiger,2021-01-22
+479,Q3 - 2018,movie,To All the Boys I've Loved Before,2018-08-17
+480,Q3 - 2020,movie,American Murder: The Family Next Door,2020-09-30
+481,Q3 - 2016,movie,Audrie & Daisy,2016-09-23
+482,Q3 - 2017,movie,First They Killed My Father,2017-09-15
+483,Q1 - 2019,movie,Fyre: The Greatest Party That Never Happened,2019-01-18
+484,Q4 - 2016,movie,Into the Inferno,2016-10-28
+485,Q2 - 2020,movie,LA Originals,2020-04-10
+486,Q1 - 2018,movie,Ladies First,2018-03-08
+487,Q1 - 2018,movie,Love per Square Foot,2018-02-14
+488,Q1 - 2019,movie,Paddleton,2019-02-22
+489,Q4 - 2018,movie,Private Life,2018-10-05
+490,Q4 - 2019,movie,Seventeen,2019-10-18
+491,Q2 - 2018,movie,Sometimes,2018-05-01
+492,Q1 - 2019,movie,Soni,2019-01-18
+493,Q4 - 2020,movie,The 40-Year-Old Version,2020-10-09
+494,Q2 - 2021,movie,The Disciple,2021-04-30
+495,Q2 - 2019,movie,The Edge of Democracy,2019-06-19
+496,Q4 - 2019,movie,The King,2019-11-01
+497,Q4 - 2019,movie,The Road to El Camino: A Breaking Bad Movie,2019-10-29
+498,Q4 - 2016,movie,The Siege of Jadotville,2016-10-07
+499,Q3 - 2018,movie,Zion ,2018-08-10
+500,Q4 - 2019,movie,Dolemite Is My Name,2019-10-25
+501,Q4 - 2019,movie,El Camino: A Breaking Bad Movie,2019-10-11
+502,Q3 - 2016,movie,Extremis,2016-09-13
+503,Q3 - 2020,movie,Father Soldier Son,2020-07-17
+504,Q2 - 2017,movie,Get Me Roger Stone,2017-05-12
+505,Q2 - 2020,movie,I'm No Longer Here,2020-05-27
+506,Q3 - 2020,movie,Mucho Mucho Amor: The Legend of Walter Mercado ,2020-07-08
+507,Q4 - 2020,movie,Octonauts & the Great Barrier Reef,2020-10-13
+508,Q2 - 2017,movie,Okja,2017-06-28
+509,Q3 - 2018,movie,On My Skin,2018-09-12
+510,Q3 - 2020,movie,Raat Akeli Hai,2020-07-31
+511,Q1 - 2019,movie,ReMastered: Massacre at the Stadium,2019-01-11
+512,Q1 - 2019,movie,ReMastered: The Two Killings of Sam Cooke,2019-02-08
+513,Q4 - 2020,movie,Secrets of the Saqqara Tomb,2020-10-28
+514,Q1 - 2020,movie,Sitara: Let Girls Dream,2020-03-08
+515,Q4 - 2016,movie,Sky Ladder: The Art of Cai Guo-Qiang,2016-10-14
+516,Q2 - 2016,movie,Team Foxcatcher,2016-04-29
+517,Q4 - 2018,movie,The Ballad of Buster Scruggs,2018-11-16
+518,Q4 - 2017,movie,The Death and Life of Marsha P. Johnson,2017-10-06
+519,Q2 - 2016,movie,The Fundamentals of Caring,2016-06-24
+520,Q2 - 2015,movie,The Other One: The Long Strange Trip of Bob Weir,2015-05-22
+521,Q3 - 2019,movie,American Factory,2019-08-21
+522,Q4 - 2019,movie,Fire in Paradise,2019-11-01
+523,Q3 - 2017,movie,Long Shot,2017-09-29
+524,Q1 - 2020,movie,Miss Americana,2020-01-31
+525,Q1 - 2019,movie,Period. End of Sentence.,2019-02-12
+526,Q4 - 2020,movie,Shawn Mendes: Live in Concert,2020-11-25
+527,Q4 - 2018,movie,Shirkers,2018-10-26
+528,Q2 - 2019,movie,The Black Godfather,2019-06-07
+529,Q4 - 2019,movie,The Irishman: In Conversation,2019-11-27
+530,Q3 - 2020,movie,The Speed Cubers,2020-07-29
+531,Q4 - 2018,movie,They'll Love Me When I'm Dead,2018-11-02
+532,Q3 - 2015,movie,Tig,2015-07-17
+533,Q4 - 2017,movie,"Barbra: The Music, The Mem'ries, The Magic!",2017-11-22
+534,Q4 - 2020,movie,Blackpink: Light Up the Sky,2020-10-14
+535,Q3 - 2018,movie,City of Joy,2018-09-07
+536,Q4 - 2020,movie,Dick Johnson Is Dead,2020-10-02
+537,Q2 - 2019,movie,Homecoming: A Film by Beyonce ,2019-04-17
+538,Q3 - 2019,movie,Invader Zim: Enter the Florpus,2019-08-16
+539,Q4 - 2017,movie,Joan Didion: The Center Will Not Hold,2017-10-27
+540,Q4 - 2019,movie,John Mulaney & the Sack Lunch Bunch,2019-12-24
+541,Q3 - 2018,movie,Reversing Roe,2018-09-13
+542,Q3 - 2016,movie,The White Helmets,2016-09-16
+543,Q2 - 2020,movie,Athlete A,2020-06-24
+544,Q4 - 2020,movie,Ludo,2020-11-12
+545,Q3 - 2018,movie,Quincy,2018-09-21
+546,Q2 - 2019,movie,Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere,2019-06-12
+547,Q4 - 2019,movie,Tell Me Who I Am,2019-10-18
+548,Q3 - 2018,movie,The Bleeding Edge,2018-07-27
+549,Q3 - 2020,movie,The Social Dilemma,2020-09-09
+550,Q4 - 2019,movie,The Two Popes,2019-12-20
+551,Q2 - 2015,movie,"What Happened, Miss Simone?",2015-06-26
+552,Q1 - 2020,movie,Yeh Ballet,2020-02-21
+553,Q2 - 2019,movie,Anima,2019-06-27
+554,Q4 - 2015,movie,Beasts of No Nation,2015-10-16
+555,Q2 - 2019,movie,Brene Brown: The Call to Courage,2019-04-19
+556,Q1 - 2020,movie,Crip Camp: A Disability Revolution,2020-03-25
+557,Q4 - 2017,movie,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Cliffton ",2017-11-17
+558,Q4 - 2016,movie,Justin Timberlake + The Tennessee Kids,2016-10-12
+559,Q1 - 2020,movie,Road to Roma,2020-02-11
+560,Q4 - 2018,movie,Roma,2018-12-14
+561,Q4 - 2020,movie,If Anything Happens I Love You,2020-11-20
+562,Q4 - 2019,movie,The Irishman,2019-11-27
+563,Q4 - 2020,movie,The Trial of the Chicago 7,2020-10-16
+564,Q2 - 2020,movie,A Secret Love,2020-04-29
+565,Q3 - 2017,movie,Icarus,2017-08-04
+566,Q4 - 2019,movie,Marriage Story,2019-12-06
+567,Q4 - 2016,movie,The Ivory Game,2016-11-04
+568,Q4 - 2018,movie,Struggle: The Life and Lost Art of Szukaiski,2018-12-21
+569,Q3 - 2017,movie,Chasing Coral ,2017-07-14
+570,Q3 - 2020,movie,My Octopus Teacher,2020-09-07
+571,Q3 - 2020,movie,Rising Phoenix,2020-08-26
+572,Q4 - 2016,movie,13th,2016-10-07
+573,Q2 - 2020,movie,Disclosure: Trans Lives on Screen,2020-06-19
+574,Q4 - 2019,movie,Klaus,2019-11-15
+575,Q1 - 2021,movie,Seaspiracy,2021-03-24
+576,Q4 - 2020,movie,The Three Deaths of Marisela Escobedo,2020-10-14
+577,Q4 - 2017,movie,Cuba and the Cameraman ,2017-11-24
+578,Q4 - 2019,movie,Dancing with the Birds,2019-10-23
+579,Q2 - 2020,movie,Ben Platt: Live from Radio City Music Hall,2020-05-20
+580,Q4 - 2018,movie,Taylor Swift: Reputation Stadium Tour,2018-12-31
+581,Q4 - 2015,movie,Winter on Fire: Ukraine's Fight for Freedom,2015-10-09
+582,Q4 - 2018,movie,Springsteen on Broadway,2018-12-16
+583,Q4 - 2020,movie,Emicida: AmarElo - It's All For Yesterday,2020-12-08
+584,Q4 - 2020,movie,David Attenborough: A Life on Our Planet,2020-10-04
+585,Q3 - 2016,show,Stranger Things,2016-07-15
+586,Q4 - 2016,show,The Crown,2016-11-04
+587,Q3 - 2017,show,Ozark,2017-07-21
+588,Q2 - 2018,show,Lost in Space,2018-04-13
+589,Q4 - 2018,show,Narcos: Mexico,2018-11-16
+590,Q1 - 2019,show,The Umbrella Academy,2019-02-15
+591,Q2 - 2019,show,Black Summer,2019-04-11
+592,Q3 - 2019,show,Another Life,2019-07-25
+593,Q3 - 2019,show,Criminal: UK,2019-09-20
+594,Q4 - 2019,show,Raising Dion,2019-10-04
+595,Q4 - 2019,show,Virgin River,2019-12-06
+596,Q4 - 2019,show,The Witcher,2019-12-20
+597,Q1 - 2020,show,Locke & Key,2020-02-07
+598,Q1 - 2020,show,The Letter for the King,2020-03-20
+599,Q2 - 2020,show,Outer Banks,2020-04-15
+600,Q2 - 2020,show,Sweet Magnolias,2020-05-19
+601,Q2 - 2020,show,Blood & Water,2020-05-20
+602,Q2 - 2020,show,Homemade,2020-06-30
+603,Q3 - 2020,show,Warrior Nun,2020-07-02
+604,Q3 - 2020,show,Cursed,2020-07-17
+605,Q3 - 2020,show,Young Wallander,2020-09-03
+606,Q3 - 2020,show,Ratched,2020-09-18
+607,Q4 - 2020,show,The Haunting of Bly Manor,2020-10-09
+608,Q4 - 2020,show,Social Distance,2020-10-15
+609,Q4 - 2020,show,Grand Army,2020-10-16
+610,Q4 - 2020,show,The Queen's Gambit,2020-10-23
+611,Q4 - 2020,show,Dash & Lily,2020-11-10
+612,Q4 - 2020,show,Selena: The Series,2020-12-04
+613,Q4 - 2020,show,Tiny Pretty Things,2020-12-14
+614,Q4 - 2020,show,Bridgerton,2020-12-25
+615,Q1 - 2021,show,Fate: The Winx Saga,2021-01-22
+616,Q2 - 2015,show,Grace and Frankie,2015-05-08
+617,Q4 - 2015,show,Master of None,2015-11-06
+618,Q2 - 2017,show,Dear White People,2017-04-28
+619,Q3 - 2017,show,Atypical,2017-08-11
+620,Q1 - 2018,show,On My Block,2018-03-16
+621,Q4 - 2018,show,The Kominsky Method,2018-11-16
+622,Q1 - 2019,show,Sex Education,2019-01-11
+623,Q1 - 2019,show,Russian Doll,2019-02-01
+624,Q1 - 2019,show,After Life,2019-03-08
+625,Q2 - 2019,show,Special,2019-04-12
+626,Q2 - 2019,show,I Think You Should Leave with Tim Robinson,2019-04-23
+627,Q2 - 2019,show,Bonding,2019-04-24
+628,Q2 - 2019,show,Dead to Me,2019-05-03
+629,Q2 - 2019,show,Malibu Rescue: The Series,2019-06-03
+630,Q2 - 2019,show,Mr. Iglesias,2019-06-21
+631,Q3 - 2019,show,Family Reunion,2019-07-10
+632,Q3 - 2019,show,Team Kaylie,2019-09-23
+633,Q3 - 2019,show,The Politician,2019-09-27
+634,Q1 - 2020,show,Gentefied,2020-02-21
+635,Q2 - 2020,show,The Iliza Shlesinger Sketch Show,2020-04-01
+636,Q2 - 2020,show,Brews Brothers,2020-04-10
+637,Q2 - 2020,show,#blackAF,2020-04-17
+638,Q2 - 2020,show,Never Have I Ever,2020-04-27
+639,Q2 - 2020,show,Space Force,2020-05-29
+640,Q3 - 2020,show,The Baby-Sitters Club,2020-07-03
+641,Q3 - 2020,show,Game On: A Comedy Crossover Event,2020-08-10
+642,Q3 - 2020,show,Julie and the Phantoms,2020-09-10
+643,Q3 - 2020,show,The Duchess,2020-09-11
+644,Q3 - 2020,show,Sneakerheads,2020-09-25
+645,Q4 - 2020,show,Emily in Paris,2020-10-02
+646,Q4 - 2020,show,Aunty Donna's Big Ol' House of Fun,2020-11-11
+647,Q4 - 2020,show,How to Ruin Christmas: The Wedding,2020-12-16
+648,Q4 - 2015,show,F Is for Family,2015-12-18
+649,Q3 - 2017,show,Big Mouth,2017-09-29
+650,Q3 - 2018,show,Disenchantment,2018-08-17
+651,Q3 - 2018,show,Paradise PD,2018-08-31
+652,Q1 - 2019,show,"Love, Death & Robots",2019-03-15
+653,Q1 - 2019,show,Trailer Park Boys: The Animated Series,2019-03-31
+654,Q2 - 2020,show,The Midnight Gospel,2020-04-20
+655,Q4 - 2020,show,The Liberator,2020-11-11
+656,Q3 - 2017,show,Castlevania,2017-07-07
+657,Q1 - 2018,show,B: The Beginning,2018-03-02
+658,Q2 - 2018,show,Aggretsuko,2018-04-20
+659,Q2 - 2019,show,Ultraman,2019-04-01
+660,Q2 - 2019,show,7SEEDS,2019-06-28
+661,Q4 - 2019,show,Dino Girl Gauko,2019-11-22
+662,Q1 - 2020,show,Cagaster of an Insect Cage,2020-02-06
+663,Q2 - 2020,show,Ghost in the Shell: SAC_2045,2020-04-23
+664,Q3 - 2020,show,Japan Sinks: 2020,2020-07-09
+665,Q3 - 2020,show,Transformers: War for Cybertron Trilogy: Siege,2020-07-30
+666,Q3 - 2020,show,Dragon's Dogma,2020-09-17
+667,Q4 - 2020,show,Blood of Zeus,2020-10-27
+668,Q4 - 2020,show,Transformers: War for Cybertron Trilogy: Earthrise,2020-12-30
+669,Q4 - 2018,show,The Hook Up Plan,2018-12-07
+670,Q2 - 2019,show,Family Business,2019-06-28
+671,Q4 - 2019,show,Mortel,2019-11-21
+672,Q1 - 2020,show,Vampires,2020-03-20
+673,Q2 - 2020,show,Into the Night,2020-05-01
+674,Q1 - 2021,show,Lupin,2021-01-08
+675,Q2 - 2019,show,How to Sell Drugs Online (Fast),2019-05-31
+676,Q3 - 2020,show,Biohackers,2020-08-20
+677,Q3 - 2020,show,The Last Word,2020-09-17
+678,Q4 - 2020,show,Barbarians,2020-10-23
+679,Q4 - 2020,show,Over Christmas,2020-11-27
+680,Q1 - 2019,show,Delhi Crime,2019-03-22
+681,Q1 - 2020,show,Taj Mahal 1989,2020-02-14
+682,Q1 - 2020,show,She,2020-03-20
+683,Q2 - 2020,show,Hasmukh,2020-04-17
+684,Q2 - 2020,show,Betaal,2020-05-24
+685,Q3 - 2020,show,Masaba Masaba,2020-08-28
+686,Q4 - 2020,show,Mismatched,2020-11-20
+687,Q4 - 2020,show,Bhaag Beanie Bhaag,2020-12-04
+688,Q1 - 2020,show,Luna Nera,2020-01-31
+689,Q2 - 2020,show,Summertime,2020-04-29
+690,Q2 - 2020,show,Curon,2020-06-10
+691,Q3 - 2019,show,The Naked Director,2019-08-08
+692,Q1 - 2020,show,Followers,2020-02-27
+693,Q3 - 2020,show,JU-ON: Origins,2020-07-03
+694,Q4 - 2020,show,Alice in Borderland,2020-12-10
+695,Q1 - 2019,show,Kingdom,2019-01-25
+696,Q2 - 2019,show,Persona,2019-04-11
+697,Q3 - 2019,show,Love Alarm,2019-08-22
+698,Q2 - 2020,show,Extracurricular,2020-04-29
+699,Q3 - 2020,show,The School Nurse Files,2020-09-25
+700,Q4 - 2020,show,Sweet Home,2020-12-18
+701,Q4 - 2019,show,Home for Christmas,2019-12-05
+702,Q1 - 2020,show,Ragnarok,2020-01-31
+703,Q1 - 2020,show,Bloodride,2020-03-13
+704,Q1 - 2019,show,Girls from Ipanema,2019-03-22
+705,Q3 - 2019,show,Sintonia,2019-08-09
+706,Q1 - 2020,show,Spectros,2020-02-20
+707,Q2 - 2020,show,Reality Z,2020-06-10
+708,Q3 - 2020,show,Kissing Game,2020-07-17
+709,Q4 - 2020,show,"Good Morning, Verônica",2020-10-01
+710,Q4 - 2018,show,Elite,2018-10-05
+711,Q4 - 2018,show,Diablero,2018-12-21
+712,Q1 - 2019,show,Always a Witch,2019-02-01
+713,Q3 - 2019,show,Monarca,2019-09-13
+714,Q4 - 2019,show,Hache,2019-11-01
+715,Q4 - 2019,show,The Neighbor,2019-12-31
+716,Q1 - 2020,show,Puerta 7,2020-02-21
+717,Q1 - 2020,show,Unstoppable,2020-02-28
+718,Q2 - 2020,show,Almost Happy,2020-05-01
+719,Q2 - 2020,show,Valeria,2020-05-08
+720,Q2 - 2020,show,The Unremarkable Juanquini,2020-05-15
+721,Q2 - 2020,show,Control Z,2020-05-22
+722,Q2 - 2020,show,The Search,2020-06-12
+723,Q3 - 2020,show,Dark Desire,2020-07-15
+724,Q3 - 2020,show,The Great Heist,2020-08-14
+725,Q4 - 2020,show,Someone Has to Die,2020-10-16
+726,Q4 - 2020,show,The Minions of Midas,2020-11-13
+727,Q4 - 2020,show,The Mess You Leave Behind,2020-12-11
+728,Q1 - 2021,show,Daughter From Another Mother,2021-01-20
+729,Q4 - 2019,show,The Gift,2019-12-27
+730,Q2 - 2020,show,Love 101,2020-04-24
+731,Q4 - 2020,show,Ethos,2020-11-12
+732,Q2 - 2020,show,The Victims' Game,2020-04-30
+733,Q2 - 2020,show,The Woods,2020-06-12
+734,Q4 - 2020,show,Love & Anarchy,2020-11-04
+735,Q4 - 2020,show,Paranormal,2020-11-05
+736,Q4 - 2020,show,Paava Kadhaigal,2020-12-18
+737,Q4 - 2020,show,Equinox,2020-12-30
+738,Q3 - 2017,show,Jack Whitehall: Travels with My Father,2017-09-22
+739,Q1 - 2018,show,Somebody Feed Phil,2018-01-12
+740,Q1 - 2018,show,Dirty Money,2018-01-26
+741,Q1 - 2018,show,Ugly Delicious,2018-02-23
+742,Q4 - 2018,show,Dogs,2018-11-16
+743,Q4 - 2018,show,Sunderland 'Til I Die,2018-12-14
+744,Q1 - 2019,show,Formula 1: Drive to Survive,2019-03-08
+745,Q2 - 2019,show,The Chef Show,2019-06-07
+746,Q3 - 2019,show,Taco Chronicles,2019-07-12
+747,Q4 - 2019,show,ARASHI's Diary -Voyage-,2019-12-31
+748,Q1 - 2020,show,Babies,2020-02-21
+749,Q2 - 2020,show,Absurd Planet,2020-04-22
+750,Q2 - 2020,show,Trial by Media,2020-05-11
+751,Q2 - 2020,show,History 101,2020-05-22
+752,Q2 - 2020,show,Lenox Hill,2020-06-10
+753,Q2 - 2020,show,Home Game,2020-06-26
+754,Q3 - 2020,show,Down to Earth with Zac Efron,2020-07-10
+755,Q3 - 2020,show,The Business of Drugs,2020-07-14
+756,Q3 - 2020,show,Street Food: Latin America,2020-07-21
+757,Q3 - 2020,show,Fear City: New York vs The Mafia,2020-07-22
+758,Q3 - 2020,show,Connected,2020-08-02
+759,Q3 - 2020,show,Immigration Nation,2020-08-03
+760,Q3 - 2020,show,World's Most Wanted,2020-08-05
+761,Q3 - 2020,show,Tiny Creatures,2020-08-07
+762,Q3 - 2020,show,High Score,2020-08-19
+763,Q3 - 2020,show,Chef's Table: BBQ,2020-09-02
+764,Q3 - 2020,show,The Witcher: A Look Inside the Episodes,2020-09-02
+765,Q3 - 2020,show,La Línea: Shadow of Narco,2020-09-09
+766,Q3 - 2020,show,Izzy's Koala World,2020-09-15
+767,Q3 - 2020,show,Challenger: The Final Flight,2020-09-16
+768,Q3 - 2020,show,The Playbook,2020-09-22
+769,Q3 - 2020,show,A Perfect Crime,2020-09-25
+770,Q3 - 2020,show,"Whose Vote Counts, Explained",2020-09-28
+771,Q4 - 2020,show,Song Exploder,2020-10-02
+772,Q4 - 2020,show,Bad Boy Billionaires: India,2020-10-05
+773,Q4 - 2020,show,Deaf U,2020-10-09
+774,Q4 - 2020,show,Move,2020-10-23
+775,Q4 - 2020,show,Carmel: Who Killed Maria Marta?,2020-11-05
+776,Q4 - 2020,show,Trial 4,2020-11-11
+777,Q4 - 2020,show,Voices of Fire,2020-11-20
+778,Q4 - 2020,show,The Holiday Movies That Made Us,2020-12-01
+779,Q4 - 2020,show,Alien Worlds,2020-12-02
+780,Q4 - 2020,show,Room 2806: The Accusation,2020-12-07
+781,Q4 - 2020,show,The Surgeon's Cut,2020-12-09
+782,Q4 - 2020,show,Anitta: Made In Honório,2020-12-16
+783,Q4 - 2020,show,BREAK IT ALL: The History of Rock in Latin America,2020-12-16
+784,Q4 - 2020,show,The Ripper,2020-12-16
+785,Q4 - 2020,show,SanPa: Sins of the Savior,2020-12-30
+786,Q1 - 2021,show,Headspace Guide to Meditation,2021-01-01
+787,Q1 - 2021,show,History of Swear Words,2021-01-05
+788,Q1 - 2021,show,Surviving Death,2021-01-06
+789,Q1 - 2021,show,Pretend It's a City,2021-01-08
+790,Q1 - 2021,show,Night Stalker: The Hunt For a Serial Killer,2021-01-13
+791,Q1 - 2021,show,Spycraft,2021-01-20
+792,Q1 - 2013,show,House of Cards,2013-02-01
+793,Q2 - 2013,show,Hemlock Grove,2013-04-19
+794,Q3 - 2013,show,Orange Is the New Black,2013-07-11
+795,Q4 - 2014,show,Marco Polo,2014-12-12
+796,Q1 - 2015,show,Bloodline,2015-03-20
+797,Q2 - 2015,show,Daredevil,2015-04-10
+798,Q2 - 2015,show,Sense8,2015-06-05
+799,Q3 - 2015,show,Narcos,2015-08-28
+800,Q4 - 2015,show,Jessica Jones,2015-11-20
+801,Q3 - 2016,show,The Get Down,2016-08-12
+802,Q3 - 2016,show,Luke Cage,2016-09-30
+803,Q4 - 2016,show,The OA,2016-12-16
+804,Q1 - 2017,show,A Series of Unfortunate Events,2017-01-13
+805,Q1 - 2017,show,Iron Fist,2017-03-17
+806,Q1 - 2017,show,13 Reasons Why,2017-03-31
+807,Q2 - 2017,show,Free Rein,2017-06-22
+808,Q2 - 2017,show,Gypsy,2017-06-30
+809,Q4 - 2017,show,Mindhunter,2017-10-13
+810,Q3 - 2017,show,Greenhouse Academy,2017-09-08
+811,Q4 - 2017,show,The Punisher,2017-11-17
+812,Q1 - 2018,show,Altered Carbon,2018-02-02
+813,Q1 - 2018,show,Seven Seconds,2018-02-23
+814,Q3 - 2018,show,The Ponysitters Club,2018-08-10
+815,Q3 - 2018,show,The Innocents,2018-08-24
+816,Q4 - 2018,show,Chilling Adventures of Sabrina,2018-10-26
+817,Q4 - 2018,show,Tidelands,2018-12-14
+818,Q1 - 2019,show,The Order,2019-03-07
+819,Q1 - 2019,show,Shadow,2019-03-08
+820,Q2 - 2019,show,Chambers,2019-04-26
+821,Q2 - 2019,show,The Society,2019-05-10
+822,Q2 - 2019,show,Trinkets,2019-06-14
+823,Q3 - 2019,show,Wu Assassins,2019-08-08
+824,Q3 - 2019,show,The Dark Crystal: Age of Resistance,2019-08-30
+825,Q4 - 2019,show,Dolly Parton's Heartstrings,2019-11-22
+826,Q4 - 2019,show,V Wars,2019-12-05
+827,Q4 - 2019,show,Soundtrack,2019-12-18
+828,Q1 - 2020,show,Messiah,2020-01-01
+829,Q1 - 2020,show,Spinning Out,2020-01-01
+830,Q1 - 2020,show,October Faction,2020-01-23
+831,Q1 - 2020,show,Queen Sono,2020-02-28
+832,Q2 - 2020,show,White Lines,2020-05-15
+833,Q3 - 2020,show,Away,2020-09-04
+834,Q1 - 2015,show,Richie Rich,2015-02-20
+835,Q1 - 2015,show,Unbreakable Kimmy Schmidt,2015-03-06
+836,Q3 - 2015,show,Project Mc2,2015-08-07
+837,Q4 - 2015,show,W/ Bob & David,2015-11-13
+838,Q1 - 2016,show,Love,2016-02-19
+839,Q1 - 2016,show,Fuller House,2016-02-26
+840,Q1 - 2016,show,Flaked,2016-03-11
+841,Q1 - 2016,show,Netflix Presents: The Characters,2016-03-11
+842,Q2 - 2016,show,The Ranch,2016-04-01
+843,Q2 - 2016,show,Lady Dynamite,2016-05-20
+844,Q3 - 2016,show,Easy,2016-09-22
+845,Q4 - 2016,show,Haters Back Off,2016-10-14
+846,Q4 - 2016,show,Trailer Park Boys Out of the Park: Europe,2016-10-28
+847,Q1 - 2017,show,One Day at a Time,2017-01-06
+848,Q1 - 2017,show,Santa Clarita Diet,2017-02-03
+849,Q2 - 2017,show,Mystery Science Theater 3000: The Return,2017-04-14
+850,Q2 - 2017,show,Girlboss,2017-04-21
+851,Q2 - 2017,show,GLOW,2017-06-23
+852,Q3 - 2017,show,Friends from College,2017-07-14
+853,Q3 - 2017,show,Disjointed,2017-08-25
+854,Q3 - 2017,show,American Vandal,2017-09-15
+855,Q4 - 2017,show,She's Gotta Have It,2017-11-23
+856,Q4 - 2017,show,Trailer Park Boys Out of the Park: USA,2017-11-24
+857,Q1 - 2018,show,Everything Sucks!,2018-02-16
+858,Q1 - 2018,show,Alexa & Katie,2018-03-23
+859,Q3 - 2018,show,All About the Washingtons,2018-08-10
+860,Q3 - 2018,show,Insatiable,2018-08-10
+861,Q3 - 2018,show,The Good Cop,2018-09-21
+862,Q4 - 2018,show,Prince of Peoria,2018-11-16
+863,Q1 - 2019,show,Turn Up Charlie,2019-03-15
+864,Q2 - 2019,show,Huge in France,2019-04-12
+865,Q2 - 2019,show,No Good Nick,2019-04-15
+866,Q2 - 2019,show,Lunatics,2019-04-19
+867,Q2 - 2019,show,It's Bruno!,2019-05-17
+868,Q4 - 2019,show,Living with Yourself,2019-10-18
+869,Q4 - 2019,show,Daybreak,2019-10-24
+870,Q4 - 2019,show,Merry Happy Whatever,2019-11-28
+871,Q4 - 2019,show,Astronomy Club: The Sketch Show,2019-12-06
+872,Q1 - 2020,show,AJ and the Queen,2020-01-10
+873,Q1 - 2020,show,Medical Police,2020-01-10
+874,Q1 - 2020,show,The Healing Powers of Dude,2020-01-13
+875,Q1 - 2020,show,Ashley Garcia: Genius in Love,2020-02-17
+876,Q1 - 2020,show,I Am Not Okay with This,2020-02-26
+877,Q2 - 2020,show,The Big Show Show,2020-04-06
+878,Q3 - 2020,show,Teenage Bounty Hunters,2020-08-14
+879,Q3 - 2015,show,Wet Hot American Summer: First Day of Camp,2015-07-31
+880,Q4 - 2016,show,Gilmore Girls: A Year in the Life,2016-11-25
+881,Q3 - 2017,show,Wet Hot American Summer: Ten Years Later,2017-08-04
+882,Q3 - 2017,show,The Defenders,2017-08-18
+883,Q4 - 2017,show,Godless,2017-11-22
+884,Q3 - 2018,show,Maniac,2018-09-21
+885,Q4 - 2018,show,The Haunting of Hill House,2018-10-12
+886,Q4 - 2018,show,Best.Worst.Weekend.Ever.,2018-10-19
+887,Q2 - 2019,show,What/If,2019-05-24
+888,Q2 - 2019,show,When They See Us,2019-05-31
+889,Q3 - 2019,show,The I-Land,2019-09-12
+890,Q3 - 2019,show,Unbelievable,2019-09-13
+891,Q1 - 2020,show,The Stranger,2020-01-30
+892,Q1 - 2020,show,Self Made: Inspired by the Life of Madam C. J. Walker,2020-03-20
+893,Q1 - 2020,show,The English Game,2020-03-20
+894,Q1 - 2020,show,Unorthodox,2020-03-26
+895,Q2 - 2020,show,Hollywood,2020-05-01
+896,Q2 - 2020,show,The Eddy,2020-05-08
+897,Q3 - 2014,show,BoJack Horseman,2014-08-22
+898,Q3 - 2017,show,Neo Yokio,2017-09-22
+899,Q4 - 2018,show,Super Drags,2018-11-09
+900,Q2 - 2019,show,Tuca & Bertie,2019-05-03
+901,Q3 - 2020,show,Hoops,2020-08-21
+902,Q1 - 2018,show,Devilman Crybaby,2018-01-05
+903,Q1 - 2018,show,A.I.C.O. -Incarnation-,2018-03-09
+904,Q1 - 2018,show,Sword Gai: The Animation,2018-03-23
+905,Q1 - 2018,show,Lost Song,2018-03-31
+906,Q2 - 2018,show,Baki,2018-06-25
+907,Q4 - 2018,show,Hero Mask,2018-12-03
+908,Q2 - 2019,show,Rilakkuma and Kaoru,2019-04-19
+909,Q3 - 2019,show,Knights of the Zodiac: Saint Seiya,2019-07-19
+910,Q3 - 2019,show,Kengan Ashura,2019-07-31
+911,Q3 - 2019,show,Cannon Busters,2019-08-15
+912,Q4 - 2019,show,Seis Manos,2019-10-03
+913,Q4 - 2019,show,Levius,2019-11-28
+914,Q4 - 2019,show,The Disastrous Life of Saiki K.: Reawakened,2019-12-30
+915,Q3 - 2020,show,The Idhun Chronicles,2020-09-10
+916,Q2 - 2019,show,Jinn,2019-06-13
+917,Q3 - 2019,show,Dollar,2019-08-08
+918,Q2 - 2018,show,The Rain,2018-05-04
+919,Q1 - 2020,show,Ares,2020-01-17
+920,Q2 - 2016,show,Marseille,2016-05-05
+921,Q1 - 2019,show,Osmosis,2019-03-29
+922,Q3 - 2019,show,Marianne,2019-09-13
+923,Q3 - 2019,show,Criminal: France,2019-09-20
+924,Q4 - 2020,show,La Révolution,2020-10-16
+925,Q4 - 2017,show,Dark,2017-12-01
+926,Q4 - 2018,show,Dogs of Berlin,2018-12-07
+927,Q3 - 2019,show,Criminal: Germany,2019-09-20
+928,Q3 - 2019,show,Skylines,2019-09-27
+929,Q4 - 2019,show,We Are the Wave,2019-11-01
+930,Q4 - 2019,show,Holiday Secrets,2019-11-20
+931,Q3 - 2018,show,Sacred Games,2018-07-06
+932,Q3 - 2018,show,Ghoul,2018-08-24
+933,Q4 - 2018,show,Selection Day,2018-12-28
+934,Q2 - 2019,show,Leila,2019-06-14
+935,Q3 - 2019,show,Typewriter,2019-07-19
+936,Q3 - 2019,show,Bard of Blood,2019-09-27
+937,Q1 - 2020,show,Jamtara - Sabka Number Ayega,2020-01-10
+938,Q4 - 2017,show,Suburra: Blood on Rome,2017-10-06
+939,Q4 - 2018,show,Baby,2018-11-30
+940,Q4 - 2017,show,Blazing Transfer Students,2017-11-10
+941,Q3 - 2018,show,Jimmy: The True Story of a True Idiot,2018-07-20
+942,Q3 - 2018,show,Switched,2018-08-01
+943,Q2 - 2020,show,The Forest of Love: Deep Cut,2020-04-30
+944,Q2 - 2017,show,My Only Love Song,2017-06-09
+945,Q4 - 2018,show,YG Future Strategy Office,2018-10-05
+946,Q2 - 2019,show,My First First Love,2019-04-18
+947,Q1 - 2020,show,My Holo Love,2020-02-07
+948,Q4 - 2019,show,Nowhere Man,2019-10-31
+949,Q4 - 2019,show,Triad Princess,2019-12-06
+950,Q1 - 2020,show,The Ghost Bride,2020-01-23
+951,Q4 - 2018,show,1983,2018-11-30
+952,Q4 - 2016,show,3%,2016-11-25
+953,Q1 - 2018,show,The Mechanism,2018-03-23
+954,Q3 - 2018,show,Samantha!,2018-07-06
+955,Q2 - 2019,show,The Chosen One,2019-06-28
+956,Q4 - 2019,show,Brotherhood,2019-10-25
+957,Q4 - 2019,show,Nobody's Looking,2019-11-22
+958,Q1 - 2020,show,Omniscient,2020-01-29
+959,Q3 - 2015,show,Club de Cuervos,2015-08-07
+960,Q4 - 2016,show,Estocolmo,2016-11-11
+961,Q1 - 2017,show,Ingobernable,2017-03-24
+962,Q2 - 2017,show,Cable Girls,2017-04-28
+963,Q1 - 2018,show,Edha,2018-03-16
+964,Q2 - 2018,show,Club de Cuervos Presents: The Ballad of Hugo Sánchez,2018-06-17
+965,Q3 - 2018,show,The House of Flowers,2018-08-10
+966,Q4 - 2018,show,Wild District,2018-10-19
+967,Q1 - 2019,show,Go! Live Your Way,2019-02-22
+968,Q1 - 2019,show,Crime Diaries: The Candidate,2019-03-22
+969,Q2 - 2019,show,Crime Diaries: Night Out,2019-05-03
+970,Q2 - 2019,show,High Seas,2019-05-24
+971,Q2 - 2019,show,Yankee,2019-06-14
+972,Q3 - 2019,show,Green Frontier,2019-08-16
+973,Q3 - 2019,show,Criminal: Spain,2019-09-20
+974,Q4 - 2019,show,The Club,2019-11-15
+975,Q4 - 2019,show,Three Days of Christmas,2019-12-06
+976,Q2 - 2019,show,Quicksand,2019-04-05
+977,Q4 - 2019,show,The Stranded,2019-11-14
+978,Q4 - 2018,show,The Protector,2018-12-14
+979,Q2 - 2015,show,Chef's Table,2015-04-26
+980,Q4 - 2015,show,Making a Murderer,2015-12-18
+981,Q1 - 2016,show,Chelsea Does,2016-01-23
+982,Q1 - 2016,show,Cooked,2016-02-19
+983,Q3 - 2016,show,Last Chance U,2016-07-29
+984,Q3 - 2016,show,Fearless,2016-08-19
+985,Q3 - 2016,show,Chef's Table: France,2016-09-02
+986,Q4 - 2016,show,Roman Empire,2016-11-11
+987,Q4 - 2016,show,Captive,2016-12-09
+988,Q1 - 2017,show,Abstract: The Art of Design,2017-02-10
+989,Q1 - 2017,show,QB1: Beyond the Lights,2017-02-13
+990,Q1 - 2017,show,Five Came Back,2017-03-31
+991,Q2 - 2017,show,Hot Girls Wanted: Turned On,2017-04-21
+992,Q2 - 2017,show,The Keepers,2017-05-19
+993,Q3 - 2017,show,Daughters of Destiny,2017-07-28
+994,Q3 - 2017,show,Fire Chasers,2017-09-08
+995,Q3 - 2017,show,The Confession Tapes,2017-09-08
+996,Q4 - 2017,show,The Day I Met El Chapo,2017-10-20
+997,Q4 - 2017,show,Shot in the Dark,2017-11-17
+998,Q4 - 2017,show,Wormwood,2017-12-15
+999,Q4 - 2017,show,72 Dangerous Animals: Latin America,2017-12-22
+1000,Q4 - 2017,show,Dope,2017-12-22
+1001,Q4 - 2017,show,The Toys That Made Us,2017-12-22
+1002,Q1 - 2018,show,Rotten,2018-01-05
+1003,Q1 - 2018,show,Drug Lords,2018-01-19
+1004,Q1 - 2018,show,Coach Snoop,2018-02-02
+1005,Q1 - 2018,show,First Team: Juventus,2018-02-16
+1006,Q1 - 2018,show,Flint Town,2018-03-02
+1007,Q1 - 2018,show,Girls Incarcerated,2018-03-02
+1008,Q1 - 2018,show,Wild Wild Country,2018-03-16
+1009,Q1 - 2018,show,Rapture,2018-03-30
+1010,Q2 - 2018,show,Bobby Kennedy for President,2018-04-27
+1011,Q2 - 2018,show,Evil Genius: The True Story of America's Most Diabolical Bank Heist,2018-05-11
+1012,Q2 - 2018,show,Explained,2018-05-23
+1013,Q2 - 2018,show,November 13: Attack on Paris,2018-06-01
+1014,Q3 - 2018,show,Dark Tourist,2018-07-20
+1015,Q3 - 2018,show,Marching Orders,2018-08-03
+1016,Q3 - 2018,show,72 Dangerous Animals: Asia,2018-08-10
+1017,Q3 - 2018,show,Afflicted,2018-08-10
+1018,Q3 - 2018,show,Follow This,2018-08-23
+1019,Q3 - 2018,show,First and Last,2018-09-07
+1020,Q3 - 2018,show,Boca Juniors Confidential,2018-09-14
+1021,Q4 - 2018,show,Salt Fat Acid Heat,2018-10-11
+1022,Q4 - 2018,show,FightWorld,2018-10-12
+1023,Q4 - 2018,show,Terrorism Close Calls,2018-10-26
+1024,Q4 - 2018,show,Medal of Honor,2018-11-09
+1025,Q4 - 2018,show,Vai Anitta,2018-11-16
+1026,Q4 - 2018,show,Inside the Real Narcos,2018-12-14
+1027,Q4 - 2018,show,The Innocent Man,2018-12-14
+1028,Q4 - 2018,show,7 Days Out,2018-12-21
+1029,Q4 - 2018,show,Murder Mountain,2018-12-28
+1030,Q1 - 2019,show,Trigger Warning with Killer Mike,2019-01-18
+1031,Q1 - 2019,show,Conversations with a Killer: The Ted Bundy Tapes,2019-01-24
+1032,Q1 - 2019,show,Examination of Conscience,2019-01-25
+1033,Q1 - 2019,show,Larry Charles' Dangerous World of Comedy,2019-02-15
+1034,Q1 - 2019,show,Losers,2019-03-01
+1035,Q1 - 2019,show,Cricket Fever: Mumbai Indians,2019-03-01
+1036,Q1 - 2019,show,The Disappearance of Madeleine McCann,2019-03-15
+1037,Q2 - 2019,show,Our Planet,2019-04-05
+1038,Q2 - 2019,show,Street Food: Asia,2019-04-26
+1039,Q2 - 2019,show,1994,2019-05-17
+1040,Q2 - 2019,show,Killer Ratings,2019-05-31
+1041,Q2 - 2019,show,The Alcàsser Murders,2019-06-14
+1042,Q2 - 2019,show,Exhibit A,2019-06-28
+1043,Q3 - 2019,show,The Last Czars,2019-07-03
+1044,Q3 - 2019,show,The Family,2019-08-09
+1045,Q3 - 2019,show,Happy Jail,2019-08-14
+1046,Q3 - 2019,show,Diagnosis,2019-08-16
+1047,Q3 - 2019,show,"The Mind, Explained",2019-09-12
+1048,Q3 - 2019,show,Inside Bill's Brain: Decoding Bill Gates,2019-09-20
+1049,Q4 - 2019,show,Living Undocumented,2019-10-02
+1050,Q4 - 2019,show,Unnatural Selection,2019-10-18
+1051,Q4 - 2019,show,"Breakfast, Lunch & Dinner",2019-10-23
+1052,Q4 - 2019,show,The Devil Next Door,2019-11-04
+1053,Q4 - 2019,show,Maradona in Mexico,2019-11-13
+1054,Q4 - 2019,show,Who Killed Little Gregory?,2019-11-20
+1055,Q4 - 2019,show,Narcoworld: Dope Stories,2019-11-22
+1056,Q4 - 2019,show,Broken,2019-11-27
+1057,Q4 - 2019,show,The Movies That Made Us,2019-11-29
+1058,Q4 - 2019,show,The Confession Killer,2019-12-06
+1059,Q4 - 2019,show,Don't F**k with Cats: Hunting an Internet Killer,2019-12-18
+1060,Q4 - 2019,show,Kevin Hart: Don't F**k This Up,2019-12-27
+1061,Q1 - 2020,show,"Sex, Explained",2020-01-02
+1062,Q1 - 2020,show,Cheer,2020-01-08
+1063,Q1 - 2020,show,Killer Inside: The Mind of Aaron Hernandez,2020-01-15
+1064,Q1 - 2020,show,Pandemic: How to Prevent an Outbreak,2020-01-22
+1065,Q1 - 2020,show,Rise of Empires: Ottoman,2020-01-24
+1066,Q1 - 2020,show,Night on Earth,2020-01-29
+1067,Q1 - 2020,show,The Pharmacist,2020-02-05
+1068,Q1 - 2020,show,The Trials of Gabriel Fernandez,2020-02-26
+1069,Q1 - 2020,show,"Tiger King: Murder, Mayhem and Madness",2020-03-20
+1070,Q2 - 2020,show,How to Fix a Drug Scandal,2020-04-01
+1071,Q2 - 2020,show,The Innocence Files,2020-04-15
+1072,Q2 - 2020,show,"Coronavirus, Explained",2020-04-26
+1073,Q2 - 2020,show,Jeffrey Epstein: Filthy Rich,2020-05-27
+1074,Q1 - 2015,show,Bosch,2015-02-13
+1075,Q3 - 2015,show,Hand of God,2015-09-04
+1076,Q4 - 2015,show,The Man in the High Castle,2015-11-20
+1077,Q1 - 2016,show,Mad Dogs,2016-01-22
+1078,Q4 - 2016,show,Goliath,2016-10-14
+1079,Q4 - 2016,show,Good Girls Revolt,2016-10-28
+1080,Q1 - 2017,show,Sneaky Pete,2017-01-13
+1081,Q1 - 2017,show,Z: The Beginning of Everything,2017-01-27
+1082,Q1 - 2017,show,Patriot,2017-02-24
+1083,Q3 - 2017,show,The Last Tycoon,2017-07-28
+1084,Q4 - 2017,show,Lore,2017-10-13
+1085,Q3 - 2018,show,Jack Ryan,2018-08-31
+1086,Q4 - 2018,show,The Romanoffs,2018-10-12
+1087,Q4 - 2018,show,Homecoming,2018-11-02
+1088,Q1 - 2019,show,Hanna,2019-03-29
+1089,Q2 - 2019,show,Too Old to Die Young,2019-06-14
+1090,Q3 - 2019,show,The Boys,2019-07-26
+1091,Q3 - 2019,show,Carnival Row,2019-08-30
+1092,Q1 - 2020,show,Hunters,2020-02-21
+1093,Q2 - 2020,show,Tales from the Loop,2020-04-03
+1094,Q2 - 2020,show,Alex Rider,2020-06-04
+1095,Q3 - 2020,show,Utopia,2020-09-25
+1096,Q4 - 2020,show,The Wilds,2020-12-11
+1097,Q2 - 2013,show,Betas,2013-04-19
+1098,Q2 - 2013,show,Alpha House,2013-04-19
+1099,Q2 - 2014,show,Gortimer Gibbon's Life on Normal Street,2014-04-19
+1100,Q3 - 2014,show,Annedroids,2014-07-25
+1101,Q3 - 2014,show,Transparent,2014-09-26
+1102,Q4 - 2014,show,Mozart in the Jungle,2014-12-23
+1103,Q1 - 2015,show,Just Add Magic,2015-01-15
+1104,Q4 - 2015,show,Red Oaks,2015-10-10
+1105,Q3 - 2016,show,The Kicks,2016-08-26
+1106,Q3 - 2016,show,One Mississippi,2016-09-09
+1107,Q3 - 2016,show,Crisis in Six Scenes,2016-09-30
+1108,Q2 - 2017,show,I Love Dick,2017-05-12
+1109,Q3 - 2017,show,Comrade Detective,2017-08-04
+1110,Q3 - 2017,show,The Tick,2017-08-25
+1111,Q4 - 2017,show,Sigmund and the Sea Monsters,2017-10-13
+1112,Q4 - 2017,show,The Marvelous Mrs. Maisel,2017-11-29
+1113,Q4 - 2017,show,Jean-Claude Van Johnson,2017-12-15
+1114,Q1 - 2018,show,The Dangerous Book for Boys,2018-03-30
+1115,Q3 - 2018,show,Forever,2018-09-14
+1116,Q4 - 2019,show,Modern Love,2019-10-18
+1117,Q1 - 2020,show,Just Add Magic: Mystery City,2020-01-17
+1118,Q2 - 2020,show,Upload,2020-05-01
+1119,Q4 - 2020,show,Truth Seekers,2020-10-30
+1120,Q2 - 2017,show,Baahubali: The Lost Legends,2017-04-19
+1121,Q3 - 2019,show,Undone,2019-09-13
+1122,Q3 - 2016,show,Crayon Shin-chan Spin-off,2016-08-03
+1123,Q4 - 2019,show,Blade of the Immortal,2019-10-10
+1124,Q1 - 2017,show,You Are Wanted,2017-03-12
+1125,Q4 - 2018,show,Deutschland 86,2018-10-19
+1126,Q4 - 2018,show,Beat,2018-11-09
+1127,Q2 - 2020,show,Bibi & Tina,2020-04-03
+1128,Q2 - 2020,show,Der Beischläfer,2020-05-29
+1129,Q3 - 2017,show,Inside Edge,2017-07-10
+1130,Q4 - 2017,show,Laakhon Mein Ek,2017-10-13
+1131,Q4 - 2017,show,Pushpavalli,2017-12-15
+1132,Q1 - 2018,show,Shaitaan Haveli,2018-01-05
+1133,Q1 - 2018,show,Breathe,2018-01-26
+1134,Q2 - 2018,show,Chacha Vidhayak Hain Humare,2018-05-18
+1135,Q4 - 2018,show,Mirzapur,2018-11-16
+1136,Q1 - 2019,show,Four More Shots Please!,2019-01-25
+1137,Q1 - 2019,show,Made in Heaven,2019-03-07
+1138,Q2 - 2019,show,Mind the Malhotras,2019-06-07
+1139,Q3 - 2019,show,The Family Man,2019-09-20
+1140,Q4 - 2019,show,Hostel Daze,2019-12-13
+1141,Q1 - 2020,show,The Forgotten Army,2020-01-24
+1142,Q1 - 2020,show,Afsos,2020-02-06
+1143,Q2 - 2020,show,Panchayat,2020-04-03
+1144,Q2 - 2020,show,Paatal Lok,2020-05-15
+1145,Q2 - 2020,show,Rasbhari,2020-06-25
+1146,Q3 - 2020,show,Breathe: Into the Shadows,2020-07-10
+1147,Q3 - 2020,show,Bandish Bandits,2020-08-04
+1148,Q1 - 2021,show,Tandav,2021-01-15
+1149,Q2 - 2016,show,Kamen Rider Amazons,2016-04-01
+1150,Q2 - 2016,show,Happy Marriage!?,2016-06-22
+1151,Q3 - 2016,show,Baby Steps,2016-07-22
+1152,Q3 - 2016,show,Businessmen vs Aliens,2016-09-08
+1153,Q4 - 2016,show,Fukuyado Honpo: Kyoto Love Story,2016-10-19
+1154,Q4 - 2016,show,Tokyo Girl,2016-12-16
+1155,Q4 - 2016,show,Ultraman Orb: The Origin Saga,2016-12-26
+1156,Q2 - 2017,show,Gaki Rock: The Story of Kindness in Asakusa,2017-04-14
+1157,Q2 - 2017,show,Tokyo Vampire Hotel,2017-06-16
+1158,Q3 - 2017,show,Face: Cyber Hanzai Tokusouhan,2017-07-11
+1159,Q3 - 2017,show,Tokyo Alice,2017-08-25
+1160,Q3 - 2017,show,Final Life,2017-09-08
+1161,Q4 - 2017,show,Chase,2017-12-22
+1162,Q1 - 2018,show,Shiro to Kiiro,2018-02-28
+1163,Q1 - 2018,show,Konta Teru's Legal Recipes,2018-03-06
+1164,Q1 - 2020,show,Shonan Junai Gumi,2020-02-28
+1165,Q3 - 2020,show,Peep Time,2020-09-18
+1166,Q2 - 2018,show,Diablo Guardián,2018-05-04
+1167,Q4 - 2018,show,Un Extraño Enemigo,2018-10-02
+1168,Q4 - 2018,show,Pequeñas coincidencias[a],2018-12-07
+1169,Q2 - 2020,show,El Presidente,2020-06-05
+1170,Q2 - 2020,show,Cómo sobrevivir soltero,2020-06-26
+1171,Q3 - 2020,show,Relatos con-fin-a-dos[a],2020-07-03
+1172,Q3 - 2020,show,La Jauría,2020-07-10
+1173,Q3 - 2020,show,El Candidato,2020-07-17
+1174,Q4 - 2020,show,Súbete a mi moto[a],2020-10-09
+1175,Q4 - 2020,show,El Cid,2020-12-18
+1176,Q1 - 2021,show,3 Caminos,2021-01-22
+1177,Q2 - 2017,show,The Idolmaster KR,2017-04-28
+1178,Q2 - 2018,show,Gangstars,2018-06-01
+1179,Q4 - 2018,show,Vella Raja,2018-12-02
+1180,Q1 - 2016,show,The New Yorker Presents,2016-02-16
+1181,Q2 - 2016,show,Prime Japan,2016-05-15
+1182,Q3 - 2016,show,Invisible Tokyo,2016-07-15
+1183,Q3 - 2016,show,All or Nothing,2016-07-01
+1184,Q3 - 2016,show,Eat the World with Emeril Lagasse,2016-09-01
+1185,Q4 - 2016,show,The Grand Tour,2016-11-18
+1186,Q1 - 2017,show,Ishi-chan no Sake Tabi,2017-02-03
+1187,Q2 - 2017,show,American Playboy: The Hugh Hefner Story,2017-04-06
+1188,Q2 - 2017,show,Long Strange Trip,2017-06-02
+1189,Q2 - 2017,show,Le Mans: Racing is Everything,2017-06-09
+1190,Q1 - 2018,show,GRAND PRIX Driver,2018-02-09
+1191,Q2 - 2018,show,All or Nothing: The Michigan Wolverines,2018-04-07
+1192,Q2 - 2018,show,All or Nothing: New Zealand All Blacks,2018-06-01
+1193,Q3 - 2018,show,Six Dreams,2018-07-26
+1194,Q3 - 2018,show,Eat. Race. Win.,2018-07-27
+1195,Q3 - 2018,show,Pistorius,2018-08-01
+1196,Q3 - 2018,show,Harmony with A. R. Rahman,2018-08-15
+1197,Q3 - 2018,show,All or Nothing: Manchester City,2018-08-17
+1198,Q4 - 2018,show,The Gymkhana Files,2018-11-16
+1199,Q4 - 2018,show,Inside Jokes,2018-11-30
+1200,Q4 - 2018,show,"Luis, el sabio del éxito",2018-12-21
+1201,Q1 - 2019,show,Lorena,2019-02-15
+1202,Q1 - 2019,show,This Giant Beast That is the Global Economy,2019-02-22
+1203,Q3 - 2019,show,This Is Football,2019-08-02
+1204,Q3 - 2019,show,Free Meek,2019-08-09
+1205,Q3 - 2019,show,Inside Borussia Dortmund,2019-08-16
+1206,Q3 - 2019,show,Take Us Home: Leeds United,2019-08-16
+1207,Q3 - 2019,show,El Corazón de Sergio Ramos,2019-09-13
+1208,Q4 - 2019,show,"Huesca, más allá de un sueño",2019-10-01
+1209,Q4 - 2019,show,Jestination Unknown,2019-10-18
+1210,Q1 - 2020,show,James May: Our Man in Japan,2020-01-03
+1211,Q1 - 2020,show,All or Nothing: Brazil national football team,2020-01-31
+1212,Q1 - 2020,show,Ted Bundy: Falling for a Killer,2020-01-31
+1213,Q1 - 2020,show,The Test: A New Era for Australia's Team,2020-03-12
+1214,Q2 - 2020,show,Regular Heroes,2020-05-08
+1215,Q2 - 2020,show,Futbolistas por el mundo,2020-06-05
+1216,Q2 - 2020,show,True Story,2020-06-26
+1217,Q3 - 2020,show,De la vida al plato,2020-07-24
+1218,Q3 - 2020,show,The Last Narc,2020-07-31
+1219,Q3 - 2020,show,All or Nothing: Tottenham Hotspur,2020-08-31
+1220,Q3 - 2020,show,Fernando,2020-09-25
+1221,Q4 - 2020,show,El Desafío: ETA,2020-10-30
+1222,Q4 - 2020,show,James May: Oh Cook!,2020-11-13

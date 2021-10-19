@@ -1,0 +1,639 @@
+media_id,category_id,genre
+585,show,Science Fiction Horror
+586,show,Historical Drama
+587,show,Crime Drama
+588,show,Science Fiction
+589,show,Crime Drama
+590,show,Superhero Action
+591,show,Zombie Drama
+592,show,Science Fiction Drama
+593,show,Police Procedural Anthology Series
+594,show,Superhero Science Fiction Drama
+595,show,Romantic Drama
+596,show,Fantasy Drama
+597,show,Horror Teen Drama
+598,show,Fantasy
+599,show,Coming Of Age Drama
+600,show,Romance Drama
+601,show,Teen Drama
+602,show,Anthology Series
+603,show,Fantasy
+604,show,Fantasy
+605,show,Detective Drama
+606,show,Drama
+607,show,Horror
+608,show,Anthology Series
+609,show,Teen Drama
+610,show,Drama
+611,show,Romance
+612,show,Biopic
+613,show,Teen Drama
+614,show,Romance
+615,show,Teen Drama Fantasy
+616,show,Comedy Drama
+617,show,Comedy
+618,show,Satire Drama
+619,show,Coming Of Age Comedy
+620,show,Coming Of Age Comedy
+621,show,Comedy
+622,show,Comedy Drama
+623,show,Comedy
+624,show,Comedy
+625,show,Comedy
+626,show,Sketch Comedy
+627,show,Dark Comedy
+628,show,Black Comedy Drama
+629,show,Comedy
+630,show,Comedy
+631,show,Comedy
+632,show,Sitcom
+633,show,Comedy
+634,show,Comedy Drama
+635,show,Sketch Comedy
+636,show,Comedy
+637,show,Sitcom
+638,show,Comedy
+639,show,Comedy
+640,show,Dramedy
+641,show,Comedy
+642,show,Musical Comedy
+643,show,Comedy
+644,show,Comedy
+645,show,Comedy Drama
+646,show,Comedy
+647,show,Comedy
+648,show,Sitcom
+649,show,Coming Of Age Comedy
+650,show,Medieval Fantasy Comedy
+651,show,Comedy
+652,show,Anthology
+653,show,Mockumentary
+654,show,Science Fantasy Dark Comedy
+655,show,War Drama
+656,show,Dark Fantasy
+657,show,Suspense
+658,show,Workplace Comedy
+659,show,Science Fiction
+660,show,Science Fiction
+661,show,Children'S Series
+662,show,Science Fiction
+663,show,Science Fiction
+664,show,Disaster
+665,show,Science Fiction
+666,show,Dark Fantasy Adventure
+667,show,Fantasy Action
+668,show,Science Fiction
+669,show,Romantic Comedy
+670,show,Comedy
+671,show,Supernatural Drama
+672,show,Supernatural Drama
+673,show,Science Fiction
+674,show,Drama
+675,show,Dark Comedy
+676,show,Thriller
+677,show,Comedy Drama
+678,show,Historical Drama
+679,show,Comedy
+680,show,Police Procedural
+681,show,Romantic Comedy
+682,show,Crime Drama
+683,show,Comedy
+684,show,Thriller
+685,show,Drama
+686,show,Romantic Comedy
+687,show,Comedy
+688,show,Historical Drama
+689,show,Teen Drama
+690,show,Supernatural Drama
+691,show,Period Drama Comedy
+692,show,Drama
+693,show,Horror
+694,show,Fantasy
+695,show,Period Horror Thriller
+696,show,Drama Anthology Series
+697,show,Romantic Comedy
+698,show,Teen Crime Drama
+699,show,Fantasy Drama
+700,show,Horror
+701,show,Comedy Drama
+702,show,Fantasy Superhero Drama
+703,show,Horror Anthology
+704,show,Period Drama
+705,show,Drama
+706,show,Thriller
+707,show,Zombie Horror
+708,show,Thriller
+709,show,Crime Drama
+710,show,Crime Teen Drama
+711,show,Horror Fantasy Thriller
+712,show,Supernatural Drama
+713,show,Family Drama
+714,show,Thriller
+715,show,Superhero Comedy
+716,show,Sports Crime Drama
+717,show,Comedy Drama
+718,show,Comedy
+719,show,Dramedy
+720,show,Comedy
+721,show,Teen Drama
+722,show,Crime Anthology Series
+723,show,Thriller
+724,show,Crime Drama
+725,show,Drama
+726,show,Thriller
+727,show,Drama
+728,show,Comedy
+729,show,Supernatural Drama
+730,show,Teen Drama
+731,show,Drama
+732,show,Thriller
+733,show,Thriller
+734,show,Romantic Comedy
+735,show,Supernatural Drama
+736,show,Anthology Series
+737,show,Thriller
+738,show,Travel Documentary
+739,show,Travel Documentary
+740,show,Documentary
+741,show,Travel Documentary
+742,show,Docu Series
+743,show,Sport
+744,show,Sport
+745,show,Culinary Art
+746,show,Culinary Art
+747,show,Docu Series
+748,show,Docu Series
+749,show,Nature Documentary
+750,show,Docu Series
+751,show,Docu Series
+752,show,Docu Series
+753,show,Docu Series
+754,show,Docu Series
+755,show,Docu Series
+756,show,Docu Series
+757,show,Docu Series
+758,show,Docu Series
+759,show,Docu Series
+760,show,Docu Series
+761,show,Nature Documentary
+762,show,Docu Series
+763,show,Culinary Art
+764,show,Making Of
+765,show,Docu Series
+766,show,Docu Series
+767,show,Docu Series
+768,show,Docu Series
+769,show,Docu Series
+770,show,Docu Series
+771,show,Docu Series
+772,show,Docu Series
+773,show,Coming Of Age Documentary
+774,show,Docu Series
+775,show,True Crime
+776,show,Docu Series
+777,show,Docu Series
+778,show,Docu Series
+779,show,Docu Series
+780,show,Docu Series
+781,show,Docu Series
+782,show,Docu Series
+783,show,Docu Series
+784,show,Docu Series
+785,show,Docu Series
+786,show,Docu Series
+787,show,Docu Series
+788,show,Docu Series
+789,show,Docu Series
+790,show,True Crime
+791,show,Docu Series
+792,show,Political Drama
+793,show,Horror Thriller
+794,show,Comedy Drama
+795,show,Historical Drama
+796,show,Thriller
+797,show,Superhero Fiction Crime Drama Legal Drama
+798,show,Science Fiction
+799,show,Crime Drama
+800,show,Superhero Fiction Neo Noir Psychological Thriller
+801,show,Musical Drama
+802,show,Superhero Fiction Neo Blaxploitation Neo Western
+803,show,Mystery
+804,show,Black Comedy Mystery
+805,show,Superhero Fiction Martial Arts
+806,show,Teen Drama Mystery
+807,show,Teen Drama
+808,show,Psychological Thriller
+809,show,Crime Drama
+810,show,Science Fiction Teen Drama
+811,show,Superhero Fiction Crime Drama Conspiracy Thriller
+812,show,Science Fiction
+813,show,Crime Drama
+814,show,Drama
+815,show,Supernatural Fiction
+816,show,Supernatural Coming Of Age Horror
+817,show,Supernatural Crime Drama
+818,show,Supernatural Horror Drama
+819,show,Thriller
+820,show,Teen Psychological Thriller
+821,show,Mystery Drama
+822,show,Coming Of Age Drama
+823,show,Supernatural Martial Arts Drama
+824,show,Fantasy
+825,show,Anthology Series
+826,show,Science Fiction Horror Drama
+827,show,Musical Drama
+828,show,Thriller
+829,show,Drama
+830,show,Horror
+831,show,Crime Drama
+832,show,Drama
+833,show,Science Fiction
+834,show,Sitcom
+835,show,Comedy
+836,show,Comedy
+837,show,Sketch Comedy
+838,show,Romantic Comedy
+839,show,Sitcom
+840,show,Comedy
+841,show,Sketch Comedy
+842,show,Sitcom
+843,show,Comedy
+844,show,Romantic Comedy Anthology
+845,show,Comedy
+846,show,Mockumentary
+847,show,Sitcom
+848,show,Comedy Horror
+849,show,Comic Science Fiction
+850,show,Comedy
+851,show,Comedy
+852,show,Comedy
+853,show,Comedy
+854,show,Mockumentary
+855,show,Comedy Drama
+856,show,Mockumentary
+857,show,Coming Of Age Comedy
+858,show,Sitcom
+859,show,Comedy
+860,show,Dark Comedy Drama
+861,show,Police Procedural Comedy Drama
+862,show,Sitcom
+863,show,Comedy
+864,show,Comedy
+865,show,Sitcom
+866,show,Comedy
+867,show,Comedy
+868,show,Comedy Drama
+869,show,Dark Comedy
+870,show,Comedy
+871,show,Sketch Comedy
+872,show,Comedy
+873,show,Comedy
+874,show,Family Comedy
+875,show,Comedy
+876,show,Coming Of Age Comedy
+877,show,Comedy
+878,show,Comedy
+879,show,Satirical Comedy
+880,show,Family Drama
+881,show,Satirical Comedy
+882,show,Superhero Action Drama
+883,show,Western
+884,show,Dark Comedy
+885,show,Horror
+886,show,Comedy
+887,show,Social Thriller Anthology
+888,show,Drama
+889,show,Science Fiction Thriller
+890,show,Drama
+891,show,Thriller
+892,show,Biopic
+893,show,Historical Drama
+894,show,Drama
+895,show,Drama
+896,show,Musical Drama
+897,show,Black Comedy Drama
+898,show,Science Fantasy Comedy
+899,show,Superhero Lgbt Comedy
+900,show,Comedy
+901,show,Sitcom Television Comedy
+902,show,Supernatural Horror
+903,show,Science Fiction
+904,show,Supernatural
+905,show,Musical Fantasy
+906,show,Martial Arts
+907,show,Crime
+908,show,Stop Motion Slice Of Life
+909,show,Action
+910,show,Martial Arts
+911,show,Fantasy
+912,show,Supernatural Action
+913,show,Science Fiction Action
+914,show,Supernatural Comedy
+915,show,Fantasy Action
+916,show,Fantasy Adventure
+917,show,Thriller
+918,show,Post Apocalyptic Drama
+919,show,Horror Drama
+920,show,Political Drama
+921,show,Science Fiction Drama
+922,show,Horror Drama
+923,show,Police Procedural Anthology Series
+924,show,Supernatural Drama
+925,show,Science Fiction
+926,show,Drama
+927,show,Police Procedural Anthology Series
+928,show,Drama
+929,show,Drama
+930,show,Drama
+931,show,Drama
+932,show,Horror
+933,show,Drama
+934,show,Drama
+935,show,Horror
+936,show,Espionage Thriller
+937,show,Crime Drama
+938,show,Crime Drama
+939,show,Drama
+940,show,Action Comedy
+941,show,Comedy
+942,show,Science Fiction
+943,show,Drama
+944,show,Comedy
+945,show,Comedy
+946,show,Romantic Comedy
+947,show,Science Fiction Romance
+948,show,Thriller
+949,show,Crime Drama Romance
+950,show,Mystery Drama
+951,show,Spy Thriller
+952,show,Science Fiction
+953,show,Crime Drama
+954,show,Comedy
+955,show,Thriller Drama
+956,show,Crime Drama
+957,show,Comedy Drama
+958,show,Science Fiction
+959,show,Comedy Drama
+960,show,Crime Drama
+961,show,Political Drama
+962,show,Period Drama
+963,show,Drama
+964,show,Comedy
+965,show,Comedy
+966,show,Crime Drama
+967,show,Musical
+968,show,Crime Anthology Series
+969,show,Crime Anthology Series
+970,show,Mystery Period Drama
+971,show,Drama
+972,show,Crime Drama Thriller
+973,show,Police Procedural Anthology
+974,show,Crime Drama
+975,show,Drama
+976,show,Crime Drama
+977,show,Fantasy Drama
+978,show,Supernatural Mystery
+979,show,Culinary Art
+980,show,Crime Drama
+981,show,Comedy
+982,show,Culinary Art
+983,show,Sport
+984,show,Sport
+985,show,Culinary Art
+986,show,Historical Drama
+987,show,Documentary
+988,show,Biography
+989,show,Sport
+990,show,Historical Drama
+991,show,Documentary
+992,show,Crime Drama
+993,show,Documentary
+994,show,Documentary
+995,show,True Crime
+996,show,Biography
+997,show,True Crime
+998,show,Psychological Drama
+999,show,Nature
+1000,show,Documentary
+1001,show,Documentary
+1002,show,Documentary
+1003,show,Documentary
+1004,show,Sport
+1005,show,Sport
+1006,show,Documentary
+1007,show,Documentary
+1008,show,Documentary
+1009,show,Documentary
+1010,show,History
+1011,show,True Crime
+1012,show,Docu Series
+1013,show,Documentary
+1014,show,Travel Documentary
+1015,show,Docu Series
+1016,show,Nature
+1017,show,Docu Series
+1018,show,Docu Series
+1019,show,Docu Series
+1020,show,Docu Series
+1021,show,Travel Documentary
+1022,show,Travel Documentary
+1023,show,Docu Series
+1024,show,Docu Series
+1025,show,Docu Series
+1026,show,Docu Series
+1027,show,True Crime
+1028,show,Docu Series
+1029,show,True Crime
+1030,show,Docu Series
+1031,show,True Crime
+1032,show,True Crime
+1033,show,Docu Series
+1034,show,Sport
+1035,show,Sport
+1036,show,True Crime
+1037,show,Nature Documentary
+1038,show,Culinary Art
+1039,show,Docu Series
+1040,show,Docu Series
+1041,show,True Crime
+1042,show,True Crime
+1043,show,Docu Series
+1044,show,Docu Series
+1045,show,Docu Series
+1046,show,Docu Series
+1047,show,Docu Series
+1048,show,Docu Series
+1049,show,Docu Series
+1050,show,Docu Series
+1051,show,Docu Series
+1052,show,Docu Series
+1053,show,Sport
+1054,show,Docu Series
+1055,show,Docu Series
+1056,show,Docu Series
+1057,show,Docu Series
+1058,show,True Crime
+1059,show,True Crime
+1060,show,Docu Series
+1061,show,Docu Series
+1062,show,Docu Series
+1063,show,True Crime
+1064,show,Docu Series
+1065,show,Docudrama
+1066,show,Nature Documentary
+1067,show,Docu Series
+1068,show,Docu Series
+1069,show,Docu Series
+1070,show,True Crime
+1071,show,Docu Series
+1072,show,Docu Series
+1073,show,Docu Series
+1074,show,Detective Fiction
+1075,show,Psychological Thriller
+1076,show,Alternative History
+1077,show,Drama
+1078,show,Legal Drama
+1079,show,Historical Period Drama
+1080,show,Crime Drama
+1081,show,Historical Period Drama
+1082,show,Crime Drama
+1083,show,Historical Period Drama
+1084,show,Anthology Horror
+1085,show,Political Thriller
+1086,show,Anthology
+1087,show,Psychological Thriller
+1088,show,Action
+1089,show,Crime Drama
+1090,show,Superhero
+1091,show,Fantasy
+1092,show,Drama
+1093,show,Science Fiction
+1094,show,Spy Thriller
+1095,show,Drama
+1096,show,Young Adult Drama
+1097,show,Comedy
+1098,show,Political Satire
+1099,show,Teen Sitcom Fantasy
+1100,show,Science Fiction
+1101,show,Comedy Drama
+1102,show,Comedy Drama
+1103,show,Fantasy
+1104,show,Comedy Drama
+1105,show,Teen Sitcom
+1106,show,Comedy Drama
+1107,show,Comedy
+1108,show,Comedy Drama
+1109,show,Comedy Drama
+1110,show,Superhero
+1111,show,Fantasy
+1112,show,Comedy Drama
+1113,show,Comedy Drama
+1114,show,Comedy Drama
+1115,show,Comedy Drama
+1116,show,Romantic Comedy Anthology
+1117,show,Fantasy
+1118,show,Science Fiction
+1119,show,Comedy Horror
+1120,show,Action Historical
+1121,show,Comedy Drama
+1122,show,Comedy
+1123,show,Action Historical
+1124,show,Thriller
+1125,show,Thriller
+1126,show,Crime Thriller
+1127,show,Sitcom
+1128,show,Comedy
+1129,show,Sports Drama
+1130,show,Drama
+1131,show,Comedy Drama
+1132,show,Horror Comedy
+1133,show,Thriller
+1134,show,Comedy
+1135,show,Crime Thriller
+1136,show,Romantic Comedy Drama
+1137,show,Drama
+1138,show,Sitcom
+1139,show,Thriller
+1140,show,Comedy Drama
+1141,show,Historical Drama
+1142,show,Comedy Drama
+1143,show,Comedy Drama
+1144,show,Crime Thriller
+1145,show,Comedy Drama
+1146,show,Crime Thriller
+1147,show,Musical
+1148,show,Crime Thriller Action
+1149,show,Action Horror
+1150,show,Romance Drama
+1151,show,Sports Drama
+1152,show,Science Fiction Comedy
+1153,show,Romance Drama
+1154,show,Drama
+1155,show,Action Drama
+1156,show,Comedy Drama
+1157,show,Horror Drama
+1158,show,Mystery Drama
+1159,show,Comedy Drama
+1160,show,Mystery Drama
+1161,show,Mystery Drama
+1162,show,Romance Drama
+1163,show,Cooking Comedy
+1164,show,Action Comedy Drama
+1165,show,Sitcom
+1166,show,Action Drama
+1167,show,Political Thriller
+1168,show,Romantic Comedy
+1169,show,Sports Drama
+1170,show,Comedy
+1171,show,Comedy Drama Anthology
+1172,show,Mystery Thriller
+1173,show,Crime Drama
+1174,show,Drama
+1175,show,Historical Drama
+1176,show,Adventure
+1177,show,Musical Drama
+1178,show,Crime Drama
+1179,show,Crime Drama
+1180,show,Documentary
+1181,show,Documentary
+1182,show,Documentary
+1183,show,Sports Documentary
+1184,show,Culinary Art
+1185,show,Motoring
+1186,show,Cooking Documentary
+1187,show,Docudrama
+1188,show,Documentary
+1189,show,Sports Documentary
+1190,show,Sports Documentary
+1191,show,Sports Documentary
+1192,show,Sports Documentary
+1193,show,Sports Documentary
+1194,show,Sports Documentary
+1195,show,Documentary
+1196,show,Travel Documentary
+1197,show,Sports Documentary
+1198,show,Sports Documentary
+1199,show,Comedian Documentary
+1200,show,Sports Documentary
+1201,show,Docuseries
+1202,show,Docuseries
+1203,show,Sports Documentary
+1204,show,Docuseries
+1205,show,Sports Documentary
+1206,show,Sports Documentary
+1207,show,Sports Documentary
+1208,show,Sports Documentary
+1209,show,Travel Documentary
+1210,show,Travel Documentary
+1211,show,Sports Documentary
+1212,show,Docuseries
+1213,show,Sports Documentary
+1214,show,Docuseries
+1215,show,Sports Documentary
+1216,show,Comedy Docudrama
+1217,show,Cooking Documentary
+1218,show,Drug Documentary
+1219,show,Sports Documentary
+1220,show,Sports Documentary
+1221,show,Docuseries
+1222,show,Cooking Show

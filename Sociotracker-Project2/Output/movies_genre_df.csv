@@ -1,0 +1,644 @@
+id,media_id,category_id,genre
+1,1,movie,Documentary
+2,2,movie,Thriller
+3,3,movie,Science fiction
+4,3,movie,Drama
+5,4,movie,Horror thriller
+6,5,movie,Mystery
+7,6,movie,Action
+8,7,movie,Comedy
+9,8,movie,Heist film
+10,8,movie,Thriller
+11,9,movie,Musical
+12,9,movie,Western
+13,9,movie,Fantasy
+14,10,movie,Comedy
+15,11,movie,Documentary
+16,12,movie,Drama
+17,13,movie,Romantic comedy
+18,14,movie,Action comedy
+19,15,movie,Thriller
+20,16,movie,Documentary
+21,17,movie,Horror anthology
+22,18,movie,Political thriller
+23,19,movie,Comedy
+24,20,movie,Horror thriller
+25,21,movie,Documentary
+26,22,movie,Thriller
+27,23,movie,Comedy
+28,24,movie,Thriller
+29,25,movie,Superhero-Comedy
+30,26,movie,Thriller
+31,27,movie,Romantic comedy
+32,28,movie,Comedy
+33,29,movie,Comedy
+34,30,movie,Comedy
+35,31,movie,Documentary
+36,32,movie,Horror
+37,33,movie,Romance drama
+38,34,movie,Comedy
+39,35,movie,Horror
+40,36,movie,Comedy
+41,37,movie,Documentary
+42,38,movie,Drama
+43,39,movie,Science fiction
+44,39,movie,Drama
+45,40,movie,Action
+46,41,movie,Anime 
+47,41,movie, Short
+48,42,movie,Drama
+49,43,movie,Superhero
+50,44,movie,Thriller
+51,45,movie,Heist
+52,46,movie,Thriller
+53,47,movie,Horror
+54,48,movie,Comedy
+55,49,movie,Comedy
+56,50,movie,Western
+57,51,movie,Action
+58,52,movie,Animation
+59,52,movie,Superhero
+60,53,movie,Family film
+61,54,movie,Drama
+62,55,movie,Comedy
+63,56,movie,Action-thriller
+64,57,movie,Drama
+65,58,movie,Thriller
+66,59,movie,Romantic comedy
+67,60,movie,Horror
+68,61,movie,Thriller
+69,62,movie,Action comedy
+70,63,movie,Teen comedy-drama
+71,64,movie,Romantic drama
+72,65,movie,Animation
+73,66,movie,Comedy
+74,67,movie,Aftershow 
+75,67,movie, Interview
+76,68,movie,Romantic comedy
+77,69,movie,Christmas musical
+78,70,movie,Comedy
+79,71,movie,Drama
+80,72,movie,Horror
+81,73,movie,Comedy
+82,74,movie,Comedy
+83,75,movie,Comedy
+84,76,movie,Comedy
+85,77,movie,Science fiction adventure
+86,78,movie,Comedy
+87,79,movie,Science fiction
+88,80,movie,Variety show
+89,81,movie,Documentary
+90,82,movie,Comedy-drama
+91,83,movie,Drama
+92,84,movie,Comedy
+93,85,movie,Romantic comedy
+94,86,movie,Comedy
+95,87,movie,Thriller
+96,88,movie,Drama
+97,89,movie,Thriller
+98,90,movie,Thriller
+99,91,movie,Horror
+100,92,movie,Romantic comedy
+101,93,movie,Drama
+102,94,movie,Drama
+103,95,movie,Comedy
+104,95,movie,Fantasy
+105,95,movie,Family
+106,96,movie,Romantic comedy
+107,97,movie,Comedy
+108,98,movie,Drama
+109,99,movie,Supernatural drama
+110,100,movie,Action
+111,100,movie,Comedy
+112,101,movie,Thriller
+113,102,movie,Horror
+114,103,movie,Drama
+115,104,movie,Comedy
+116,105,movie,Action
+117,105,movie,Science fiction
+118,106,movie,Romantic comedy
+119,107,movie,Romantic teenage drama
+120,108,movie,Comedy 
+121,108,movie, Musical
+122,109,movie,Musical
+123,110,movie,Thriller
+124,111,movie,Comedy
+125,112,movie,Documentary
+126,113,movie,Comedy
+127,114,movie,Variety show
+128,115,movie,Romantic comedy
+129,116,movie,Science fiction
+130,116,movie,Mystery
+131,117,movie,Crime drama
+132,118,movie,Thriller
+133,119,movie,Psychological thriller drama
+134,120,movie,Comedy
+135,121,movie,Science fiction
+136,122,movie,Romantic comedy
+137,123,movie,Adventure
+138,123,movie,Comedy
+139,124,movie,Black comedy
+140,125,movie,Comedy
+141,126,movie,Comedy
+142,127,movie,Black comedy
+143,128,movie,Comedy
+144,129,movie,Comedy-drama
+145,130,movie,Romantic comedy
+146,131,movie,Thriller
+147,132,movie,Romantic comedy
+148,133,movie,Romance
+149,134,movie,Variety show
+150,135,movie,Comedy-drama
+151,136,movie,Romantic drama
+152,137,movie,Science fiction
+153,138,movie,Thriller
+154,139,movie,Comedy
+155,140,movie,Horror comedy
+156,141,movie,Documentary
+157,142,movie,Christian musical
+158,143,movie,Romantic teen drama
+159,144,movie,Romantic drama
+160,145,movie,Family
+161,146,movie,Dark comedy
+162,147,movie,Horror
+163,148,movie,Romantic comedy
+164,149,movie,Drama
+165,150,movie,Comedy
+166,151,movie,Comedy horror
+167,152,movie,Documentary
+168,153,movie,Documentary
+169,154,movie,Action
+170,155,movie,Thriller
+171,156,movie,Action comedy
+172,157,movie,Romantic comedy
+173,158,movie,Psychological thriller
+174,159,movie,Comedy
+175,160,movie,Thriller
+176,161,movie,Comedy
+177,162,movie,Comedy-drama
+178,163,movie,Romantic comedy
+179,164,movie,Romantic comedy
+180,165,movie,Drama
+181,166,movie,Drama
+182,167,movie,Biopic
+183,168,movie,Comedy
+184,169,movie,Drama
+185,170,movie,Drama
+186,171,movie,Science fiction
+187,171,movie,Thriller
+188,172,movie,Romantic comedy
+189,173,movie,Thriller
+190,174,movie,Romantic comedy
+191,175,movie,Mockumentary
+192,176,movie,Romantic comedy
+193,177,movie,Comedy-drama
+194,178,movie,Romantic comedy
+195,179,movie,Satire
+196,180,movie,One-man show
+197,181,movie,Romantic comedy-drama
+198,182,movie,Dark comedy
+199,183,movie,Satire
+200,184,movie,Science fiction
+201,184,movie,Thriller
+202,185,movie,Comedy
+203,186,movie,Comedy
+204,186,movie,Horror
+205,187,movie,Fantasy
+206,188,movie,Romantic comedy
+207,189,movie,Romantic comedy
+208,190,movie,Drama
+209,191,movie,Romantic comedy
+210,192,movie,Drama
+211,193,movie,Thriller
+212,194,movie,Sports-drama
+213,195,movie,Zombie
+214,195,movie,Heist
+215,196,movie,Psychological horror
+216,197,movie,Mystery
+217,198,movie,Mockumentary
+218,199,movie,Drama
+219,200,movie,Documentary
+220,201,movie,Romantic comedy
+221,202,movie,Thriller
+222,203,movie,Documentary
+223,204,movie,Comedy-drama
+224,205,movie,Musical
+225,206,movie,Action comedy
+226,207,movie,Sports film
+227,208,movie,Biopic
+228,209,movie,Drama
+229,210,movie,Science fiction
+230,210,movie,Thriller
+231,211,movie,Drama
+232,212,movie,Drama
+233,213,movie,Comedy mystery
+234,214,movie,Superhero
+235,215,movie,Romantic thriller
+236,216,movie,Christmas comedy
+237,217,movie,Romantic comedy
+238,218,movie,Romantic comedy
+239,219,movie,Romantic comedy
+240,220,movie,War-Comedy
+241,221,movie,Action
+242,222,movie,Comedy
+243,223,movie,Drama
+244,224,movie,Documentary
+245,225,movie,Drama
+246,226,movie,Family
+247,227,movie,Romantic comedy
+248,227,movie,Holiday
+249,228,movie,Adventure-romance
+250,229,movie,Documentary
+251,230,movie,Comedy
+252,231,movie,Crime drama
+253,232,movie,Comedy
+254,233,movie,Adventure
+255,234,movie,Crime drama
+256,235,movie,Biopic
+257,236,movie,Drama
+258,237,movie,Drama
+259,238,movie,Western
+260,239,movie,Romantic comedy
+261,240,movie,Biopic
+262,241,movie,Horror-thriller
+263,242,movie,Drama
+264,243,movie,Thriller
+265,244,movie,Dance comedy
+266,245,movie,Stop Motion
+267,246,movie,Biopic
+268,247,movie,Drama
+269,248,movie,Drama
+270,249,movie,Comedy-drama
+271,250,movie,Comedy
+272,251,movie,Sports-drama
+273,252,movie,Thriller
+274,253,movie,Thriller
+275,254,movie,Animation
+276,255,movie,Thriller
+277,256,movie,Biopic
+278,257,movie,Romantic comedy
+279,258,movie,Action comedy
+280,259,movie,Drama
+281,260,movie,Documentary
+282,261,movie,Documentary
+283,262,movie,Comedy
+284,263,movie,Horror
+285,263,movie,Crime drama
+286,264,movie,Documentary
+287,265,movie,Romantic comedy
+288,266,movie,Horror-thriller
+289,267,movie,Family film
+290,268,movie,Urban fantasy
+291,269,movie,Drama
+292,269,movie,Horror
+293,270,movie,Drama
+294,271,movie,Family
+295,271,movie,Comedy-drama
+296,272,movie,Comedy
+297,273,movie,Romantic comedy
+298,274,movie,Drama
+299,275,movie,Drama
+300,276,movie,Documentary
+301,277,movie,Drama
+302,278,movie,Action
+303,279,movie,Comedy
+304,280,movie,War
+305,281,movie,Crime thriller
+306,282,movie,Science fiction
+307,282,movie,Action
+308,283,movie,Teen comedy horror
+309,284,movie,Science fiction
+310,284,movie,Drama
+311,285,movie,Drama
+312,286,movie,Comedy-drama
+313,287,movie,Documentary
+314,288,movie,Crime drama
+315,289,movie,Thriller
+316,290,movie,Romantic comedy
+317,291,movie,Documentary
+318,292,movie,Drama
+319,293,movie,Documentary
+320,294,movie,Concert Film
+321,295,movie,Science fiction
+322,295,movie,Thriller
+323,296,movie,Documentary
+324,297,movie,Musical comedy
+325,298,movie,Sports-drama
+326,299,movie,Thriller
+327,300,movie,Drama
+328,301,movie,Romantic comedy
+329,302,movie,Documentary
+330,303,movie,Romantic drama
+331,304,movie,Documentary
+332,305,movie,Documentary
+333,306,movie,Comedy-drama
+334,307,movie,Animation
+335,307,movie,Musical
+336,307,movie,Adventure
+337,308,movie,Drama
+338,309,movie,Documentary
+339,310,movie,Animation 
+340,310,movie, Musicial
+341,311,movie,Documentary
+342,312,movie,Comedy-drama
+343,313,movie,Documentary
+344,314,movie,Thriller
+345,315,movie,Animation
+346,315,movie,Comedy
+347,315,movie,Adventure
+348,316,movie,Action-thriller
+349,317,movie,Documentary
+350,318,movie,Drama
+351,319,movie,Action thriller
+352,320,movie,Romantic comedy
+353,321,movie,Documentary
+354,322,movie,Romance
+355,323,movie,Drama
+356,324,movie,Anime
+357,324,movie,Science fiction
+358,325,movie,Documentary
+359,326,movie,Animation 
+360,326,movie, Short
+361,327,movie,Documentary
+362,328,movie,Comedy
+363,329,movie,War drama
+364,330,movie,Documentary
+365,331,movie,Musical comedy
+366,332,movie,Horror thriller
+367,333,movie,Thriller
+368,334,movie,Family
+369,334,movie,Christmas musical
+370,335,movie,Documentary
+371,336,movie,Drama
+372,337,movie,Drama
+373,338,movie,Adventure
+374,339,movie,Drama
+375,340,movie,Documentary
+376,341,movie,Science fiction thriller
+377,342,movie,Romantic comedy
+378,343,movie,Comedy
+379,344,movie,Drama
+380,345,movie,Romance
+381,346,movie,Drama 
+382,346,movie, Short
+383,347,movie,Hidden-camera prank comedy
+384,348,movie,Psychological thriller
+385,349,movie,Horror
+386,350,movie,Romantic comedy
+387,351,movie,Romance
+388,352,movie,Documentary
+389,353,movie,Psychological thriller
+390,354,movie,Documentary
+391,355,movie,Drama
+392,356,movie,Documentary
+393,357,movie,Documentary
+394,358,movie,Documentary
+395,359,movie,Science fiction
+396,360,movie,Documentary
+397,361,movie,Spy thriller
+398,362,movie,Crime drama
+399,363,movie,Spy thriller
+400,364,movie,Documentary
+401,365,movie,Anime
+402,365,movie,Fantasy
+403,366,movie,Drama
+404,367,movie,Animated musical comedy
+405,368,movie,Documentary
+406,369,movie,Anime
+407,369,movie,Science fiction
+408,370,movie,Drama
+409,371,movie,Documentary
+410,372,movie,Documentary
+411,373,movie,Action
+412,374,movie,Documentary
+413,375,movie,Drama
+414,376,movie,Documentary
+415,377,movie,Drama
+416,378,movie,Comedy
+417,379,movie,Documentary
+418,380,movie,Romantic drama
+419,381,movie,Variety Show
+420,382,movie,Drama
+421,383,movie,Drama
+422,384,movie,Drama
+423,385,movie,Documentary
+424,386,movie,Comedy-drama
+425,387,movie,Superhero
+426,387,movie,Action
+427,388,movie,Documentary
+428,389,movie,Drama
+429,390,movie,Drama
+430,391,movie,Drama
+431,392,movie,Biographical
+432,392,movie,Comedy
+433,393,movie,Documentary
+434,394,movie,Documentary
+435,395,movie,Documentary
+436,396,movie,Romantic comedy
+437,397,movie,Documentary
+438,398,movie,Comedy
+439,399,movie,Thriller
+440,400,movie,Comedy
+441,401,movie,Documentary
+442,402,movie,Documentary
+443,403,movie,Documentary
+444,404,movie,Documentary
+445,405,movie,Documentary
+446,406,movie,Drama
+447,407,movie,Drama
+448,408,movie,Aftershow 
+449,408,movie, Interview
+450,409,movie,Drama
+451,410,movie,Drama
+452,411,movie,Documentary
+453,412,movie,Drama
+454,413,movie,Documentary
+455,414,movie,Thriller
+456,415,movie,Documentary
+457,416,movie,Documentary
+458,417,movie,Documentary
+459,418,movie,Animation 
+460,418,movie, Short
+461,419,movie,Drama
+462,420,movie,Documentary
+463,421,movie,Biopic
+464,422,movie,Romance
+465,423,movie,Historical-epic
+466,424,movie,Comedy-drama
+467,425,movie,Documentary
+468,426,movie,Documentary
+469,427,movie,Documentary
+470,428,movie,Documentary
+471,429,movie,Romance
+472,430,movie,Crime drama
+473,431,movie,Comedy 
+474,431,movie, Musical
+475,432,movie,Comedy-drama
+476,433,movie,Documentary
+477,434,movie,Documentary
+478,435,movie,Aftershow 
+479,435,movie, Interview
+480,436,movie,Documentary
+481,437,movie,Documentary
+482,438,movie,Documentary
+483,439,movie,Drama
+484,440,movie,Aftershow 
+485,440,movie, Interview
+486,441,movie,Documentary
+487,442,movie,Documentary
+488,443,movie,Documentary
+489,444,movie,Documentary
+490,445,movie,Documentary
+491,446,movie,Documentary
+492,447,movie,Animation 
+493,447,movie, Comedy
+494,448,movie,Comedy
+495,449,movie,Christmas
+496,449,movie,Fantasy
+497,449,movie,Adventure
+498,449,movie,Comedy
+499,450,movie,Biopic
+500,451,movie,Action-thriller
+501,452,movie,Aftershow 
+502,452,movie, Interview
+503,453,movie,Animation
+504,454,movie,Animation
+505,455,movie,Drama
+506,456,movie,Documentary
+507,457,movie,Documentary
+508,458,movie,Mentalism special
+509,459,movie,Documentary
+510,460,movie,Documentary
+511,461,movie,Documentary
+512,462,movie,Crime drama
+513,463,movie,Documentary
+514,464,movie,Documentary
+515,465,movie,Documentary
+516,466,movie,Documentary
+517,467,movie,Documentary
+518,468,movie,One-man show
+519,469,movie,Documentary
+520,470,movie,Documentary
+521,471,movie,Drama
+522,472,movie,Documentary
+523,473,movie,Documentary
+524,474,movie,Documentary
+525,475,movie,Psychological thriller
+526,476,movie,Drama
+527,477,movie,Documentary
+528,478,movie,Drama
+529,479,movie,Romantic comedy
+530,480,movie,Documentary
+531,481,movie,Documentary
+532,482,movie,Drama
+533,483,movie,Documentary
+534,484,movie,Documentary
+535,485,movie,Documentary
+536,486,movie,Documentary
+537,487,movie,Romantic comedy
+538,488,movie,Drama-Comedy
+539,489,movie,Drama
+540,490,movie,Coming-of-age comedy-drama
+541,491,movie,Drama
+542,492,movie,Crime drama
+543,493,movie,Comedy
+544,494,movie,Drama
+545,495,movie,Documentary
+546,496,movie,Historical drama
+547,497,movie,Making-of
+548,498,movie,War
+549,499,movie,Documentary
+550,500,movie,Biopic
+551,501,movie,Crime drama
+552,502,movie,Documentary
+553,503,movie,Documentary
+554,504,movie,Documentary
+555,505,movie,Drama
+556,506,movie,Documentary
+557,507,movie,Animation
+558,508,movie,Action-adventure
+559,509,movie,Crime drama
+560,510,movie,Thriller
+561,511,movie,Documentary
+562,512,movie,Documentary
+563,513,movie,Documentary
+564,514,movie,Animation 
+565,514,movie, Short
+566,515,movie,Documentary
+567,516,movie,Documentary
+568,517,movie,Western
+569,518,movie,Documentary
+570,519,movie,Comedy-drama
+571,520,movie,Documentary
+572,521,movie,Documentary
+573,522,movie,Documentary
+574,523,movie,Documentary
+575,524,movie,Documentary
+576,525,movie,Documentary
+577,526,movie,Concert Film
+578,527,movie,Documentary
+579,528,movie,Documentary
+580,529,movie,Aftershow 
+581,529,movie, Interview
+582,530,movie,Documentary
+583,531,movie,Documentary
+584,532,movie,Documentary
+585,533,movie,Concert Film
+586,534,movie,Documentary
+587,535,movie,Documentary
+588,536,movie,Documentary
+589,537,movie,Documentary
+590,538,movie,Animation 
+591,538,movie, Science Fiction
+592,539,movie,Documentary
+593,540,movie,Variety show
+594,541,movie,Documentary
+595,542,movie,Documentary
+596,543,movie,Documentary
+597,544,movie,Anthology
+598,544,movie,Dark comedy
+599,545,movie,Documentary
+600,546,movie,Documentary
+601,547,movie,Documentary
+602,548,movie,Documentary
+603,549,movie,Documentary
+604,550,movie,Drama
+605,551,movie,Documentary
+606,552,movie,Drama
+607,553,movie,Musical 
+608,553,movie, Short
+609,554,movie,War drama
+610,555,movie,Documentary
+611,556,movie,Documentary
+612,557,movie,Documentary
+613,558,movie,Concert Film
+614,559,movie,Making-of
+615,560,movie,Drama
+616,561,movie,Animation 
+617,561,movie, Short
+618,562,movie,Crime drama
+619,563,movie,Drama
+620,564,movie,Documentary
+621,565,movie,Documentary
+622,566,movie,Drama
+623,567,movie,Documentary
+624,568,movie,Documentary
+625,569,movie,Documentary
+626,570,movie,Documentary
+627,571,movie,Documentary
+628,572,movie,Documentary
+629,573,movie,Documentary
+630,574,movie,Animation
+631,574,movie,Christmas
+632,574,movie,Comedy
+633,574,movie,Adventure
+634,575,movie,Documentary
+635,576,movie,Documentary
+636,577,movie,Documentary
+637,578,movie,Documentary
+638,579,movie,Concert Film
+639,580,movie,Concert Film
+640,581,movie,Documentary
+641,582,movie,One-man show
+642,583,movie,Documentary
+643,584,movie,Documentary
